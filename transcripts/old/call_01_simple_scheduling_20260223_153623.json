@@ -1,0 +1,28 @@
+{
+  "scenario_id": 1,
+  "scenario_name": "simple_scheduling",
+  "call_sid": "unknown",
+  "started_at": "2026-02-23T15:36:23.533042",
+  "ended_at": "2026-02-23T15:36:43.050395",
+  "metadata": {
+    "stream_sid": "MZ1fe8ee85b1f52c2d4c0a9521546b9eae",
+    "call_sid": "CAbb15a3d40bc01c80c6dc38cb6a24298e"
+  },
+  "transcript": [
+    {
+      "timestamp": "2026-02-23T15:36:24.958111",
+      "speaker": "patient",
+      "text": "Hi, I'd like to schedule an appointment please."
+    },
+    {
+      "timestamp": "2026-02-23T15:36:36.772942",
+      "speaker": "agent",
+      "text": "Thanks for calling PivotPoint Orthopaedics, part of Pretty Good AI. Am I speaking with Alex?"
+    },
+    {
+      "timestamp": "2026-02-23T15:36:37.358151",
+      "speaker": "patient",
+      "text": "Yes, this is Alex Chen."
+    }
+  ]
+}

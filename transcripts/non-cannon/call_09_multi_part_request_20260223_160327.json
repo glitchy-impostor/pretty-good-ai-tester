@@ -1,0 +1,108 @@
+{
+  "scenario_id": 9,
+  "scenario_name": "multi_part_request",
+  "call_sid": "unknown",
+  "started_at": "2026-02-23T16:03:27.477239",
+  "ended_at": "2026-02-23T16:05:53.304109",
+  "metadata": {
+    "stream_sid": "MZde5fed49c22abf661ee36375af08868a",
+    "call_sid": "CAfd9e2c9c53c65655a62cbf414c7b78e9"
+  },
+  "transcript": [
+    {
+      "timestamp": "2026-02-23T16:03:29.202396",
+      "speaker": "patient",
+      "text": "Hi, I need to request a refill on my metoprolol."
+    },
+    {
+      "timestamp": "2026-02-23T16:03:40.572664",
+      "speaker": "agent",
+      "text": "Thanks for calling Pivot Point Orthopedics. Part of Pretty Good AI. Am I speaking with Alex?"
+    },
+    {
+      "timestamp": "2026-02-23T16:03:41.485263",
+      "speaker": "patient",
+      "text": "No, this is Jennifer Liu. I'm calling to request a refill on my metoprolol 50mg. My pharmacy is Rite Aid."
+    },
+    {
+      "timestamp": "2026-02-23T16:04:01.804869",
+      "speaker": "agent",
+      "text": "Got it, Jennifer. Can you please provide your date of birth?"
+    },
+    {
+      "timestamp": "2026-02-23T16:04:02.548584",
+      "speaker": "patient",
+      "text": "Sure, it's February 14, 1986."
+    },
+    {
+      "timestamp": "2026-02-23T16:04:24.795928",
+      "speaker": "agent",
+      "text": "Let me confirm your details. I have your name as Jennifer Liu and your date of birth as February fourteenth nineteen eighty six. Is that correct? If so, could you please spell your first and last name for me?"
+    },
+    {
+      "timestamp": "2026-02-23T16:04:26.072780",
+      "speaker": "patient",
+      "text": "Yes, that's correct. My first name is spelled J-E-N-N-I-F-E-R and my last name is L-I-U."
+    },
+    {
+      "timestamp": "2026-02-23T16:04:48.962883",
+      "speaker": "agent",
+      "text": "Would you like me to look up your record using the phone number you have on file with us? If so, please provide that number. If you're not sure, just let me know."
+    },
+    {
+      "timestamp": "2026-02-23T16:04:49.758828",
+      "speaker": "patient",
+      "text": "Yes, please use the phone number on file. It's 555-0123."
+    },
+    {
+      "timestamp": "2026-02-23T16:04:52.999862",
+      "speaker": "agent",
+      "text": "And we can confirm your name and date of birth again."
+    },
+    {
+      "timestamp": "2026-02-23T16:04:54.045979",
+      "speaker": "patient",
+      "text": "Yes, my name is Jennifer Liu and my date of birth is February 14, 1986. While I have you, can I also schedule a follow-up appointment in about two weeks?"
+    },
+    {
+      "timestamp": "2026-02-23T16:05:18.983276",
+      "speaker": "agent",
+      "text": "Let me confirm your phone number on file as five five five zero"
+    },
+    {
+      "timestamp": "2026-02-23T16:05:19.995787",
+      "speaker": "patient",
+      "text": "Yes, that's correct. And about the follow-up appointment, could you help me schedule that for about two weeks from now?"
+    },
+    {
+      "timestamp": "2026-02-23T16:05:24.409139",
+      "speaker": "agent",
+      "text": "one two three. Your name is Jennifer Liu, and your date of birth is February fourteenth nineteen eighty six. Is all of that correct?"
+    },
+    {
+      "timestamp": "2026-02-23T16:05:25.168809",
+      "speaker": "patient",
+      "text": "Yes, that's all correct. Can we go ahead with scheduling the appointment?"
+    },
+    {
+      "timestamp": "2026-02-23T16:05:47.312118",
+      "speaker": "agent",
+      "text": "I'm having trouble pulling up your record in the system, so I can't process your refill or"
+    },
+    {
+      "timestamp": "2026-02-23T16:05:48.013690",
+      "speaker": "patient",
+      "text": "Oh, one more thing\u2014before we address that, is it possible to get a referral to a cardiologist as well?"
+    },
+    {
+      "timestamp": "2026-02-23T16:05:52.030033",
+      "speaker": "agent",
+      "text": "schedule your appointment right now. I'll make sure our clinic support team follows up with you as soon as possible."
+    },
+    {
+      "timestamp": "2026-02-23T16:05:52.784797",
+      "speaker": "patient",
+      "text": "I understand. Please have them follow up on the refill, appointment, and the cardiologist referral. Thank you for your help. Goodbye."
+    }
+  ]
+}

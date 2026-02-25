@@ -1,0 +1,148 @@
+{
+  "scenario_id": 14,
+  "scenario_name": "canonical_cancellation",
+  "call_sid": "unknown",
+  "started_at": "2026-02-23T17:05:19.954962",
+  "ended_at": "2026-02-23T17:07:46.789216",
+  "metadata": {
+    "stream_sid": "MZ582b38f59b7257b9844c86055af85c34",
+    "call_sid": "CA8fa15cfbaf2ac973e68d281e13ef2bf5"
+  },
+  "transcript": [
+    {
+      "timestamp": "2026-02-23T17:05:21.136431",
+      "speaker": "patient",
+      "text": "Hi, I need to cancel an upcoming physical therapy appointment."
+    },
+    {
+      "timestamp": "2026-02-23T17:05:33.112535",
+      "speaker": "agent",
+      "text": "Thanks for calling PivotPoint Orthopaedics, part of Pretty Good AI. Am I speaking with Alex?"
+    },
+    {
+      "timestamp": "2026-02-23T17:05:33.330944",
+      "speaker": "patient",
+      "text": "No, this is Marcus Chen."
+    },
+    {
+      "timestamp": "2026-02-23T17:05:41.852498",
+      "speaker": "agent",
+      "text": "Got it, Marcus. May I help you today?"
+    },
+    {
+      "timestamp": "2026-02-23T17:05:42.363911",
+      "speaker": "patient",
+      "text": "Yes, I need to cancel my physical therapy appointment."
+    },
+    {
+      "timestamp": "2026-02-23T17:05:57.072189",
+      "speaker": "agent",
+      "text": "Understood. I'll help you with that. You please provide your date of birth?"
+    },
+    {
+      "timestamp": "2026-02-23T17:05:57.450795",
+      "speaker": "patient",
+      "text": "Sure, it's November 11, 2000."
+    },
+    {
+      "timestamp": "2026-02-23T17:06:19.968359",
+      "speaker": "agent",
+      "text": "Let me confirm. Your name is Marcus Chen, and your date of birth is November eleventh two thousand."
+    },
+    {
+      "timestamp": "2026-02-23T17:06:20.414814",
+      "speaker": "patient",
+      "text": "That's correct."
+    },
+    {
+      "timestamp": "2026-02-23T17:06:22.022829",
+      "speaker": "agent",
+      "text": "Is that correct? If so, could you please spell your first and last name for me?"
+    },
+    {
+      "timestamp": "2026-02-23T17:06:22.547504",
+      "speaker": "patient",
+      "text": "Sure, it's M-A-R-C-U-S C-H-E-N."
+    },
+    {
+      "timestamp": "2026-02-23T17:06:29.489840",
+      "speaker": "agent",
+      "text": "Great."
+    },
+    {
+      "timestamp": "2026-02-23T17:06:29.833369",
+      "speaker": "patient",
+      "text": "Thanks."
+    },
+    {
+      "timestamp": "2026-02-23T17:06:33.752871",
+      "speaker": "agent",
+      "text": "Would you like me to look up your record?"
+    },
+    {
+      "timestamp": "2026-02-23T17:06:34.083729",
+      "speaker": "patient",
+      "text": "Yes, please."
+    },
+    {
+      "timestamp": "2026-02-23T17:06:37.171403",
+      "speaker": "agent",
+      "text": "Using the phone number you have on"
+    },
+    {
+      "timestamp": "2026-02-23T17:06:38.115609",
+      "speaker": "patient",
+      "text": "Yes, it's 415-555-0467."
+    },
+    {
+      "timestamp": "2026-02-23T17:06:42.030093",
+      "speaker": "agent",
+      "text": "alright. Please tell me the phone number you have on file."
+    },
+    {
+      "timestamp": "2026-02-23T17:06:42.408435",
+      "speaker": "patient",
+      "text": "Sure, it's 415-555-0467."
+    },
+    {
+      "timestamp": "2026-02-23T17:07:05.074418",
+      "speaker": "agent",
+      "text": "Let me confirm. I have your phone number as four one five five five five zero four six seven. And your date of birth as November eleventh two thousand. Is that correct?"
+    },
+    {
+      "timestamp": "2026-02-23T17:07:05.319067",
+      "speaker": "patient",
+      "text": "Yes, that's correct."
+    },
+    {
+      "timestamp": "2026-02-23T17:07:22.266025",
+      "speaker": "agent",
+      "text": "I can't proceed further right now, but I can make sure our clinic support team follows up with you. Please hold on while I document your request for them."
+    },
+    {
+      "timestamp": "2026-02-23T17:07:22.634344",
+      "speaker": "patient",
+      "text": "Alright, can I get a confirmation that this is cancelled once it's processed?"
+    },
+    {
+      "timestamp": "2026-02-23T17:07:27.273230",
+      "speaker": "agent",
+      "text": "Live transfer is not a"
+    },
+    {
+      "timestamp": "2026-02-23T17:07:27.800233",
+      "speaker": "patient",
+      "text": "Okay, no problem. I'll wait for the follow-up. Thank you."
+    },
+    {
+      "timestamp": "2026-02-23T17:07:45.772527",
+      "speaker": "agent",
+      "text": "Got it. The clinic support team will follow-up with you as soon as they can to confirm your cancellation. Do you need anything else? Just let us know."
+    },
+    {
+      "timestamp": "2026-02-23T17:07:46.259116",
+      "speaker": "patient",
+      "text": "No, that's all. Thank you for your help. Goodbye!"
+    }
+  ]
+}

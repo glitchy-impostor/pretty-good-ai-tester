@@ -1,0 +1,48 @@
+{
+  "scenario_id": 1,
+  "scenario_name": "simple_scheduling",
+  "call_sid": "unknown",
+  "started_at": "2026-02-23T15:12:24.073969",
+  "ended_at": "2026-02-23T15:13:40.044815",
+  "metadata": {
+    "stream_sid": "MZ2a89c54e0d78b35723b030d7bfdc8898",
+    "call_sid": "CA298c5ea98abab8ca98c5e19ac7d94935"
+  },
+  "transcript": [
+    {
+      "timestamp": "2026-02-23T15:12:25.877500",
+      "speaker": "patient",
+      "text": "Hi, I'd like to schedule an appointment please."
+    },
+    {
+      "timestamp": "2026-02-23T15:12:38.193144",
+      "speaker": "agent",
+      "text": "For calling Pivot Point Orthopedics, part of Pretty Good AI. I speaking with Alex?"
+    },
+    {
+      "timestamp": "2026-02-23T15:12:39.069048",
+      "speaker": "patient",
+      "text": "Yes, this is Alex Chen. I'm a new patient looking to schedule a routine annual checkup."
+    },
+    {
+      "timestamp": "2026-02-23T15:13:00.006789",
+      "speaker": "agent",
+      "text": "I can connect you to our patient support team. However, I'm a pretty good AI and can do many of the things an operator can. Do you wanna give me a try?"
+    },
+    {
+      "timestamp": "2026-02-23T15:13:01.225459",
+      "speaker": "patient",
+      "text": "Sure, let's give it a try."
+    },
+    {
+      "timestamp": "2026-02-23T15:13:38.190302",
+      "speaker": "agent",
+      "text": "I can't schedule your appointment right now because I'm unable to identify you in our system. I'll connect you to our patient support teams, and they can help you get set up. Please stay on the line. Live transfer isn't available right now since this is a demo clinic. In a real situation, you'd be connected to a human for help. If you have other questions about the clinic or wanna know more about our services, I can help with that. Would you like more information about Pivot Point Orthopaedics?"
+    },
+    {
+      "timestamp": "2026-02-23T15:13:39.156412",
+      "speaker": "patient",
+      "text": "No, that's okay. I'll try calling back later. Thanks for your help. Goodbye!"
+    }
+  ]
+}

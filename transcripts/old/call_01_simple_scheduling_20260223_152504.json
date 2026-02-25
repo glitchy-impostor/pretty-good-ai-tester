@@ -1,0 +1,18 @@
+{
+  "scenario_id": 1,
+  "scenario_name": "simple_scheduling",
+  "call_sid": "unknown",
+  "started_at": "2026-02-23T15:25:04.421200",
+  "ended_at": "2026-02-23T15:25:29.214148",
+  "metadata": {
+    "stream_sid": "MZ924134725860ee3db6ffcdd46e06c0e1",
+    "call_sid": "CA68960463445061c911b131384296a62d"
+  },
+  "transcript": [
+    {
+      "timestamp": "2026-02-23T15:25:05.745217",
+      "speaker": "patient",
+      "text": "Hi, I'd like to schedule an appointment please."
+    }
+  ]
+}

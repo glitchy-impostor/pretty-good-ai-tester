@@ -1,0 +1,148 @@
+{
+  "scenario_id": 11,
+  "scenario_name": "canonical_scheduling",
+  "call_sid": "unknown",
+  "started_at": "2026-02-23T16:57:42.437636",
+  "ended_at": "2026-02-23T17:00:05.733232",
+  "metadata": {
+    "stream_sid": "MZ29349c66636592b205d6c7ca67c14c60",
+    "call_sid": "CA81a1f92ff92dc7a19b1c3ee0164a8b2e"
+  },
+  "transcript": [
+    {
+      "timestamp": "2026-02-23T16:57:43.998717",
+      "speaker": "patient",
+      "text": "Hi, I'd like to schedule a new patient consultation please."
+    },
+    {
+      "timestamp": "2026-02-23T16:57:56.095282",
+      "speaker": "agent",
+      "text": "Calling PivotPoint Orthopedics, part of Pretty Good AI. Am I speaking with Alex?"
+    },
+    {
+      "timestamp": "2026-02-23T16:57:57.128655",
+      "speaker": "patient",
+      "text": "No, this is Thomas Nguyen. I'm calling to schedule a new patient consultation."
+    },
+    {
+      "timestamp": "2026-02-23T16:58:12.580854",
+      "speaker": "agent",
+      "text": "Got it, Thomas. I'll help you with a new patient consultation."
+    },
+    {
+      "timestamp": "2026-02-23T16:58:13.094695",
+      "speaker": "patient",
+      "text": "Great, thank you!"
+    },
+    {
+      "timestamp": "2026-02-23T16:58:17.497235",
+      "speaker": "agent",
+      "text": "Since you're not in our system yet, I can't create a new patient account for you directly."
+    },
+    {
+      "timestamp": "2026-02-23T16:58:18.215890",
+      "speaker": "patient",
+      "text": "Actually, I am an existing patient. Could you please check again?"
+    },
+    {
+      "timestamp": "2026-02-23T16:58:23.845839",
+      "speaker": "agent",
+      "text": "I'm not able"
+    },
+    {
+      "timestamp": "2026-02-23T16:58:24.767224",
+      "speaker": "patient",
+      "text": "No problem, I can provide my information. My name is Thomas Nguyen, my date of birth is August 14, 2000, and my phone number is 619-555-0142."
+    },
+    {
+      "timestamp": "2026-02-23T16:58:30.130008",
+      "speaker": "agent",
+      "text": "Thanks for clarifying."
+    },
+    {
+      "timestamp": "2026-02-23T16:58:30.664148",
+      "speaker": "patient",
+      "text": "You're welcome! Could we schedule the consultation for next week, please?"
+    },
+    {
+      "timestamp": "2026-02-23T16:58:53.575078",
+      "speaker": "agent",
+      "text": "Let me confirm your details. I have your name as"
+    },
+    {
+      "timestamp": "2026-02-23T16:58:54.161773",
+      "speaker": "patient",
+      "text": "Thomas Nguyen."
+    },
+    {
+      "timestamp": "2026-02-23T16:58:56.511381",
+      "speaker": "agent",
+      "text": "Thomas Wynn and your date of birth as August fourteenth two thousand."
+    },
+    {
+      "timestamp": "2026-02-23T16:58:57.024213",
+      "speaker": "patient",
+      "text": "It's actually Thomas Nguyen, and yes, my date of birth is August 14, 2000."
+    },
+    {
+      "timestamp": "2026-02-23T16:59:00.328719",
+      "speaker": "agent",
+      "text": "Is that correct? If so, could you"
+    },
+    {
+      "timestamp": "2026-02-23T16:59:01.733426",
+      "speaker": "patient",
+      "text": "Yes, that's correct. Could we go ahead and schedule the appointment? I'm available any day next week except Thursday, preferably in the morning."
+    },
+    {
+      "timestamp": "2026-02-23T16:59:26.008684",
+      "speaker": "agent",
+      "text": "Let me confirm. Your name is Thomas Quinn. Your date of birth is August fourteenth two thousand, and your phone number is six one nine five five five"
+    },
+    {
+      "timestamp": "2026-02-23T16:59:26.925167",
+      "speaker": "patient",
+      "text": "It's actually Thomas Nguyen, and my phone number is 619-555-0142."
+    },
+    {
+      "timestamp": "2026-02-23T16:59:30.146486",
+      "speaker": "agent",
+      "text": "zero one four two. Is all of that correct?"
+    },
+    {
+      "timestamp": "2026-02-23T16:59:30.631708",
+      "speaker": "patient",
+      "text": "Yes, that's correct. Thank you."
+    },
+    {
+      "timestamp": "2026-02-23T16:59:52.059803",
+      "speaker": "agent",
+      "text": "I'm having trouble verifying your patient record right now. Connect you to our clinic support team so they can help you schedule your appointment."
+    },
+    {
+      "timestamp": "2026-02-23T16:59:52.730926",
+      "speaker": "patient",
+      "text": "Alright, that sounds good. Thank you for your help."
+    },
+    {
+      "timestamp": "2026-02-23T16:59:57.630890",
+      "speaker": "agent",
+      "text": "Please stay on the line. Live transfer isn't available right now since this is a demo"
+    },
+    {
+      "timestamp": "2026-02-23T16:59:58.222232",
+      "speaker": "patient",
+      "text": "Understood, thank you for letting me know. Could you assist me with scheduling the appointment in the meantime?"
+    },
+    {
+      "timestamp": "2026-02-23T17:00:04.315090",
+      "speaker": "agent",
+      "text": "got it. If you need anything else"
+    },
+    {
+      "timestamp": "2026-02-23T17:00:05.017153",
+      "speaker": "patient",
+      "text": "That's all I need for now, thank you. Goodbye!"
+    }
+  ]
+}

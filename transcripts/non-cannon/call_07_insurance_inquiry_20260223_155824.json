@@ -1,0 +1,68 @@
+{
+  "scenario_id": 7,
+  "scenario_name": "insurance_inquiry",
+  "call_sid": "unknown",
+  "started_at": "2026-02-23T15:58:24.584494",
+  "ended_at": "2026-02-23T15:59:54.277302",
+  "metadata": {
+    "stream_sid": "MZ4ba6e71c131b9dbfca95bc1995704c02",
+    "call_sid": "CA6d8914685af42f8b10f2de1ed58b16c0"
+  },
+  "transcript": [
+    {
+      "timestamp": "2026-02-23T15:58:26.136561",
+      "speaker": "patient",
+      "text": "Hi, I want to check if you accept my insurance. I have Aetna."
+    },
+    {
+      "timestamp": "2026-02-23T15:58:37.378760",
+      "speaker": "agent",
+      "text": "Meijer's Thanks for calling PivotPoint Orthopaedics, part of Pretty Good AI. Am I speaking with Alex?"
+    },
+    {
+      "timestamp": "2026-02-23T15:58:38.406293",
+      "speaker": "patient",
+      "text": "No, this is David Martinez. I was wondering if you accept Aetna PPO insurance?"
+    },
+    {
+      "timestamp": "2026-02-23T15:58:59.577755",
+      "speaker": "agent",
+      "text": "Got it. David Yes. PivotPoint Orthopedics accepts most insurance plans, including Aetna p t. Would you like more details about coverage or help with anything else today?"
+    },
+    {
+      "timestamp": "2026-02-23T15:59:00.305548",
+      "speaker": "patient",
+      "text": "Great, thanks for confirming. Do you know what my copay would be for a new patient visit?"
+    },
+    {
+      "timestamp": "2026-02-23T15:59:23.001488",
+      "speaker": "agent",
+      "text": "I don't have access to specific co pay amount, since these can vary by your individual plan. I recommend checking your Aetna PPO card or contacting Aetna directly for the exact co pay."
+    },
+    {
+      "timestamp": "2026-02-23T15:59:24.082405",
+      "speaker": "patient",
+      "text": "I understand. Could you give me a rough estimate of the cost for a new patient visit?"
+    },
+    {
+      "timestamp": "2026-02-23T15:59:26.824073",
+      "speaker": "agent",
+      "text": "Is there anything else I can help you with?"
+    },
+    {
+      "timestamp": "2026-02-23T15:59:28.283628",
+      "speaker": "patient",
+      "text": "I was hoping for a rough estimate of the cost for a new patient visit if possible. Can you provide any general information about that?"
+    },
+    {
+      "timestamp": "2026-02-23T15:59:52.546267",
+      "speaker": "agent",
+      "text": "I don't have exact pricing, but new patient visits at orthopedic clinics typically range from one hundred fifty dollars to three hundred fifty dollars before insurance."
+    },
+    {
+      "timestamp": "2026-02-23T15:59:53.751974",
+      "speaker": "patient",
+      "text": "Thanks for that information. I\u2019ll check with Aetna for more details. Have a good day!"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "scenario_id": 1,
+  "scenario_name": "simple_scheduling",
+  "call_sid": "unknown",
+  "started_at": "2026-02-23T15:43:32.922033",
+  "ended_at": "2026-02-23T15:45:44.361795",
+  "metadata": {
+    "stream_sid": "MZeb6aa5da590f61eb7c7ab6791d4ebcc3",
+    "call_sid": "CAb60a3e3de5b168d80589a2d769ee523e"
+  },
+  "transcript": [
+    {
+      "timestamp": "2026-02-23T15:43:34.409176",
+      "speaker": "patient",
+      "text": "Hi, I'd like to schedule an appointment please."
+    },
+    {
+      "timestamp": "2026-02-23T15:44:02.992393",
+      "speaker": "agent",
+      "text": "Pretty good AI. Am I speaking with Alex?"
+    },
+    {
+      "timestamp": "2026-02-23T15:44:03.735156",
+      "speaker": "patient",
+      "text": "Yes, this is Alex Chen. I'm calling to schedule a routine annual checkup."
+    },
+    {
+      "timestamp": "2026-02-23T15:44:06.763807",
+      "speaker": "agent",
+      "text": "Hi. This is PivotPoint Orthopedics. Am I speaking with Alex? How may I help you today?"
+    },
+    {
+      "timestamp": "2026-02-23T15:44:07.909556",
+      "speaker": "patient",
+      "text": "Hi, yes, this is Alex Chen. I'm looking to schedule a routine annual checkup for next week, if possible."
+    },
+    {
+      "timestamp": "2026-02-23T15:44:11.770021",
+      "speaker": "agent",
+      "text": "Got it."
+    },
+    {
+      "timestamp": "2026-02-23T15:44:12.221784",
+      "speaker": "patient",
+      "text": "Great, thank you!"
+    },
+    {
+      "timestamp": "2026-02-23T15:44:25.007216",
+      "speaker": "agent",
+      "text": "Got it, Alex. Can you please provide your date of birth?"
+    },
+    {
+      "timestamp": "2026-02-23T15:44:25.726036",
+      "speaker": "patient",
+      "text": "Sure, my date of birth is March 15, 1992."
+    },
+    {
+      "timestamp": "2026-02-23T15:44:47.926560",
+      "speaker": "agent",
+      "text": "Thanks, Alex. At Point Orthopedics, we offer new patient consultations, follow-up consultation, procedure appointments, and physical therapy sessions."
+    },
+    {
+      "timestamp": "2026-02-23T15:44:48.910478",
+      "speaker": "patient",
+      "text": "I see, thank you for clarifying. I'm looking to schedule a new patient consultation, please."
+    },
+    {
+      "timestamp": "2026-02-23T15:44:55.215820",
+      "speaker": "agent",
+      "text": "Do not offer routine annual checkups. Would you like to book a new patient consultation or a follow-up consultation instead?"
+    },
+    {
+      "timestamp": "2026-02-23T15:44:55.744604",
+      "speaker": "patient",
+      "text": "I'll book a new patient consultation, please."
+    },
+    {
+      "timestamp": "2026-02-23T15:45:11.188999",
+      "speaker": "agent",
+      "text": "Got it. Would you like to see a specific provider, or should I check availability with any provider for a new patient consultation next week?"
+    },
+    {
+      "timestamp": "2026-02-23T15:45:12.112666",
+      "speaker": "patient",
+      "text": "I don't have a preference, so please check availability with any provider for next week."
+    },
+    {
+      "timestamp": "2026-02-23T15:45:28.291913",
+      "speaker": "agent",
+      "text": "Understood. Let me check available new patient consultation"
+    },
+    {
+      "timestamp": "2026-02-23T15:45:29.109523",
+      "speaker": "patient",
+      "text": "Thank you!"
+    },
+    {
+      "timestamp": "2026-02-23T15:45:32.899906",
+      "speaker": "agent",
+      "text": "appointments with any provider for next week. One moment while I fetch the options."
+    },
+    {
+      "timestamp": "2026-02-23T15:45:33.719680",
+      "speaker": "patient",
+      "text": "Sure, take your time."
+    },
+    {
+      "timestamp": "2026-02-23T15:45:37.111950",
+      "speaker": "agent",
+      "text": "There are no opening"
+    },
+    {
+      "timestamp": "2026-02-23T15:45:37.944737",
+      "speaker": "patient",
+      "text": "Okay, thank you for checking. Could you let me know when the next available appointment would be?"
+    },
+    {
+      "timestamp": "2026-02-23T15:45:42.922427",
+      "speaker": "agent",
+      "text": "there are no open new patient consultation"
+    },
+    {
+      "timestamp": "2026-02-23T15:45:43.846708",
+      "speaker": "patient",
+      "text": "I understand. Thank you for checking. I'll try again another time. Goodbye!"
+    }
+  ]
+}

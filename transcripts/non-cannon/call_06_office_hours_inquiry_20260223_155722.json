@@ -1,0 +1,38 @@
+{
+  "scenario_id": 6,
+  "scenario_name": "office_hours_inquiry",
+  "call_sid": "unknown",
+  "started_at": "2026-02-23T15:57:22.168338",
+  "ended_at": "2026-02-23T15:58:01.152844",
+  "metadata": {
+    "stream_sid": "MZeb036ae3006fbfbedeb9c971897f1b95",
+    "call_sid": "CA92a51dc9215dc8c66ab2b4666815dc24"
+  },
+  "transcript": [
+    {
+      "timestamp": "2026-02-23T15:57:23.512247",
+      "speaker": "patient",
+      "text": "Hi, I'm looking for a new doctor and wanted to ask about your office. What are your hours?"
+    },
+    {
+      "timestamp": "2026-02-23T15:57:35.087873",
+      "speaker": "agent",
+      "text": "Maingles. Thanks for calling PivotPoint Orthopedics. Part of Pretty Good AI. Am I speaking with Alex?"
+    },
+    {
+      "timestamp": "2026-02-23T15:57:36.003633",
+      "speaker": "patient",
+      "text": "No, my name is Sarah Thompson. I'm new to the area and looking for a primary care doctor. Could you tell me what your office hours are?"
+    },
+    {
+      "timestamp": "2026-02-23T15:57:59.709746",
+      "speaker": "agent",
+      "text": "Welcome, Sarah. PivotPoint Orthopedics is an orthopedic clinic not a primary care office. We help with joint"
+    },
+    {
+      "timestamp": "2026-02-23T15:58:00.641931",
+      "speaker": "patient",
+      "text": "Oh, I see. Thank you for letting me know. I'll keep looking for a primary care doctor then. Have a great day!"
+    }
+  ]
+}

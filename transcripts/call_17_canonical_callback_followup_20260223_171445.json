@@ -1,0 +1,148 @@
+{
+  "scenario_id": 17,
+  "scenario_name": "canonical_callback_followup",
+  "call_sid": "unknown",
+  "started_at": "2026-02-23T17:14:45.000535",
+  "ended_at": "2026-02-23T17:18:12.909768",
+  "metadata": {
+    "stream_sid": "MZ416e9556baf9cf87128b9500769fef6e",
+    "call_sid": "CA66f103652d138aa5d9656bc0054f34a1"
+  },
+  "transcript": [
+    {
+      "timestamp": "2026-02-23T17:14:46.448442",
+      "speaker": "patient",
+      "text": "Hi, I called a couple of days ago about a refill on my naproxen and I was told someone would follow up with me. I haven't heard anything."
+    },
+    {
+      "timestamp": "2026-02-23T17:14:57.837453",
+      "speaker": "agent",
+      "text": "Thanks for calling pivot point orthopedics. Part of Pretty Good AI. Am I speaking with Alex?"
+    },
+    {
+      "timestamp": "2026-02-23T17:14:58.760042",
+      "speaker": "patient",
+      "text": "No, this is Rebecca Okafor. I'm calling because I was supposed to get a follow-up about my naproxen refill, but no one has reached out to me. Is there any record of my previous call?"
+    },
+    {
+      "timestamp": "2026-02-23T17:15:24.852295",
+      "speaker": "agent",
+      "text": "Got it, Rebecca. Can you please provide your date of birth? I'll check your records and look into your"
+    },
+    {
+      "timestamp": "2026-02-23T17:15:25.484024",
+      "speaker": "patient",
+      "text": "Sure, my date of birth is February 28, 2000."
+    },
+    {
+      "timestamp": "2026-02-23T17:15:27.599340",
+      "speaker": "agent",
+      "text": "refill follow-up."
+    },
+    {
+      "timestamp": "2026-02-23T17:15:28.054134",
+      "speaker": "patient",
+      "text": "Thank you. I appreciate it."
+    },
+    {
+      "timestamp": "2026-02-23T17:15:45.658725",
+      "speaker": "agent",
+      "text": "Thanks, Rebecca. Just to confirm, can you please spell out your first and last name for me? Helps make sure I have your information correct."
+    },
+    {
+      "timestamp": "2026-02-23T17:15:46.375128",
+      "speaker": "patient",
+      "text": "Certainly, it's Rebecca, R-E-B-E-C-C-A, and Okafor, O-K-A-F-O-R."
+    },
+    {
+      "timestamp": "2026-02-23T17:16:08.210476",
+      "speaker": "agent",
+      "text": "Would you like me to look up your record using the phone number you have on file with us? If so, please tell me that number. If you're not sure, I can confirm your name and date of birth with you again. Which would you prefer?"
+    },
+    {
+      "timestamp": "2026-02-23T17:16:08.908086",
+      "speaker": "patient",
+      "text": "Yes, you can look it up using my phone number. It's 702-555-0388."
+    },
+    {
+      "timestamp": "2026-02-23T17:16:26.721635",
+      "speaker": "agent",
+      "text": "Let me confirm. Your phone number is seven zero two"
+    },
+    {
+      "timestamp": "2026-02-23T17:16:27.333371",
+      "speaker": "patient",
+      "text": "Yes, that's correct. 702-555-0388."
+    },
+    {
+      "timestamp": "2026-02-23T17:16:31.341097",
+      "speaker": "agent",
+      "text": "five five five zero three eight, and your date of birth is February"
+    },
+    {
+      "timestamp": "2026-02-23T17:16:31.940801",
+      "speaker": "patient",
+      "text": "Actually, the phone number is 702-555-0388, and my date of birth is February 28, 2000."
+    },
+    {
+      "timestamp": "2026-02-23T17:17:01.301916",
+      "speaker": "agent",
+      "text": "I'm unable to pull up your record right now. I'll connect you to our patient support team so they can help with your naproxen refill follow-up. Please stay on the line."
+    },
+    {
+      "timestamp": "2026-02-23T17:17:02.049266",
+      "speaker": "patient",
+      "text": "I'd really prefer to resolve this now if possible. Can you connect me directly to someone who can assist with the refill on this call?"
+    },
+    {
+      "timestamp": "2026-02-23T17:17:07.884666",
+      "speaker": "agent",
+      "text": "Live transfer isn't available right now since this is a demo clinic?"
+    },
+    {
+      "timestamp": "2026-02-23T17:17:08.582118",
+      "speaker": "patient",
+      "text": "I understand, but I really need to get this refill sorted out today. Is there anything else you can do to help me with this immediately?"
+    },
+    {
+      "timestamp": "2026-02-23T17:17:32.193493",
+      "speaker": "agent",
+      "text": "I understand you want to resolve this right away. I'm unable to connect you to a live person"
+    },
+    {
+      "timestamp": "2026-02-23T17:17:33.586670",
+      "speaker": "patient",
+      "text": "I appreciate your help. Could you at least ensure my refill request is prioritized, and someone contacts me today?"
+    },
+    {
+      "timestamp": "2026-02-23T17:17:38.502571",
+      "speaker": "agent",
+      "text": "at this moment, but I can document your request and make sure our clinic support team follows up soon as possible. Would you like me to do that for you now?"
+    },
+    {
+      "timestamp": "2026-02-23T17:17:39.526718",
+      "speaker": "patient",
+      "text": "I appreciate that, but I've already waited without a follow-up. Is there any way to expedite this? I really need the medication soon."
+    },
+    {
+      "timestamp": "2026-02-23T17:18:03.219136",
+      "speaker": "agent",
+      "text": "I understand how important this is. Right now, I can't process the refill"
+    },
+    {
+      "timestamp": "2026-02-23T17:18:04.614440",
+      "speaker": "patient",
+      "text": "I understand. Please make sure the support team knows this is urgent, and I'd appreciate it if they could contact me as soon as possible. Thank you."
+    },
+    {
+      "timestamp": "2026-02-23T17:18:11.593136",
+      "speaker": "agent",
+      "text": "directly or escalate further since live support isn't available in this demo. I'll make sure your request is documented for urgent follow-up. Someone from our clinic support team will reach out as soon"
+    },
+    {
+      "timestamp": "2026-02-23T17:18:12.193537",
+      "speaker": "patient",
+      "text": "Thank you for your help. I'll be waiting for their call. Goodbye."
+    }
+  ]
+}

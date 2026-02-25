@@ -1,0 +1,28 @@
+{
+  "scenario_id": 13,
+  "scenario_name": "canonical_refill",
+  "call_sid": "unknown",
+  "started_at": "2026-02-23T17:04:07.364809",
+  "ended_at": "2026-02-23T17:04:56.318271",
+  "metadata": {
+    "stream_sid": "MZ666c41adb339a065afd500e1f55c0908",
+    "call_sid": "CA39f0da0a0dd7553d70cc51a0bd70f5b7"
+  },
+  "transcript": [
+    {
+      "timestamp": "2026-02-23T17:04:08.499007",
+      "speaker": "patient",
+      "text": "Hi, I need to refill my naproxen prescription. I'm running pretty low."
+    },
+    {
+      "timestamp": "2026-02-23T17:04:20.540920",
+      "speaker": "agent",
+      "text": "Opening my. Thanks for calling PivotPoint Orthopedics. Part of Pretty Good AI. Am I speaking with Alex?"
+    },
+    {
+      "timestamp": "2026-02-23T17:04:21.101979",
+      "speaker": "patient",
+      "text": "No, this is Rebecca Okafor. I'm calling to refill my naproxen prescription."
+    }
+  ]
+}

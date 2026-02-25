@@ -1,0 +1,88 @@
+{
+  "scenario_id": 1,
+  "scenario_name": "simple_scheduling",
+  "call_sid": "unknown",
+  "started_at": "2026-02-23T15:37:10.432671",
+  "ended_at": "2026-02-23T15:39:20.483032",
+  "metadata": {
+    "stream_sid": "MZ29416ea5239772250cb9b54a02ffb980",
+    "call_sid": "CA55a8642932731fb7751d49c728b3b567"
+  },
+  "transcript": [
+    {
+      "timestamp": "2026-02-23T15:37:12.168698",
+      "speaker": "patient",
+      "text": "Hi, I'd like to schedule an appointment please."
+    },
+    {
+      "timestamp": "2026-02-23T15:37:23.292255",
+      "speaker": "agent",
+      "text": "Thanks for calling PivotPoint Orthopedics. Part of Pretty Good a I. Am I speaking with Alex?"
+    },
+    {
+      "timestamp": "2026-02-23T15:37:24.155276",
+      "speaker": "patient",
+      "text": "Yes, this is Alex Chen."
+    },
+    {
+      "timestamp": "2026-02-23T15:37:34.172722",
+      "speaker": "agent",
+      "text": "Got it, Alex. Can you please provide your date of birth?"
+    },
+    {
+      "timestamp": "2026-02-23T15:37:35.512498",
+      "speaker": "patient",
+      "text": "Sure, it's March 15, 1992."
+    },
+    {
+      "timestamp": "2026-02-23T15:37:47.433468",
+      "speaker": "agent",
+      "text": "Got it, Alex. How may I help you today?"
+    },
+    {
+      "timestamp": "2026-02-23T15:37:48.942623",
+      "speaker": "patient",
+      "text": "I'd like to schedule a routine annual checkup, please. I'm hoping to get an appointment next week if possible."
+    },
+    {
+      "timestamp": "2026-02-23T15:38:17.088434",
+      "speaker": "agent",
+      "text": "Got it. At Tivot Point Orthopaedics, we offer new patient consultations, follow-up consultations, procedure appointments, and physical therapy sessions. Just to confirm, are you looking for a follow-up consultation for your annual checkup?"
+    },
+    {
+      "timestamp": "2026-02-23T15:38:18.144148",
+      "speaker": "patient",
+      "text": "I'm actually a new patient, so I'm looking to schedule a new patient consultation for my annual checkup."
+    },
+    {
+      "timestamp": "2026-02-23T15:38:35.113712",
+      "speaker": "agent",
+      "text": "Understood. You'd like to book a new patient consultation?"
+    },
+    {
+      "timestamp": "2026-02-23T15:38:35.929778",
+      "speaker": "patient",
+      "text": "Yes, that's correct."
+    },
+    {
+      "timestamp": "2026-02-23T15:38:39.514513",
+      "speaker": "agent",
+      "text": "We have several providers available. Do you have a preferred provider, or would you like me to check?"
+    },
+    {
+      "timestamp": "2026-02-23T15:38:40.641583",
+      "speaker": "patient",
+      "text": "I don't have a preference, so please feel free to check for me."
+    },
+    {
+      "timestamp": "2026-02-23T15:38:45.453389",
+      "speaker": "agent",
+      "text": "Great. Do you have a preferred provider for"
+    },
+    {
+      "timestamp": "2026-02-23T15:38:46.197819",
+      "speaker": "patient",
+      "text": "I don't have a preferred provider, so any available provider is fine with me."
+    }
+  ]
+}

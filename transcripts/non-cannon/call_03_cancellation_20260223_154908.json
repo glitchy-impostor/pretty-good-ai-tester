@@ -1,0 +1,108 @@
+{
+  "scenario_id": 3,
+  "scenario_name": "cancellation",
+  "call_sid": "unknown",
+  "started_at": "2026-02-23T15:49:08.966907",
+  "ended_at": "2026-02-23T15:51:43.167651",
+  "metadata": {
+    "stream_sid": "MZ49326ca71153be97481cc837397c5e08",
+    "call_sid": "CAbcfbe8abaf22b5c8d64c4076ce37344d"
+  },
+  "transcript": [
+    {
+      "timestamp": "2026-02-23T15:49:10.590295",
+      "speaker": "patient",
+      "text": "Hi, I need to cancel an appointment."
+    },
+    {
+      "timestamp": "2026-02-23T15:49:22.275012",
+      "speaker": "agent",
+      "text": "Thanks for calling PivotPoint Orthopaedics, part of Pretty Good AI. Am I speaking with Alex?"
+    },
+    {
+      "timestamp": "2026-02-23T15:49:22.991692",
+      "speaker": "patient",
+      "text": "No, this is James Williams."
+    },
+    {
+      "timestamp": "2026-02-23T15:49:34.170054",
+      "speaker": "agent",
+      "text": "Got it, James. Are you calling for yourself or for someone else today?"
+    },
+    {
+      "timestamp": "2026-02-23T15:49:34.766728",
+      "speaker": "patient",
+      "text": "For myself."
+    },
+    {
+      "timestamp": "2026-02-23T15:49:45.211345",
+      "speaker": "agent",
+      "text": "Okay, Jan. Please provide your date of birth."
+    },
+    {
+      "timestamp": "2026-02-23T15:49:46.097885",
+      "speaker": "patient",
+      "text": "It's November 3, 1966."
+    },
+    {
+      "timestamp": "2026-02-23T15:50:06.222448",
+      "speaker": "agent",
+      "text": "Let me confirm your details. I have your name as James Williams and your date of birth as November third nineteen sixty six. Is that correct? If so, could you please spell your first and last name for me?"
+    },
+    {
+      "timestamp": "2026-02-23T15:50:07.191281",
+      "speaker": "patient",
+      "text": "Yes, that's correct. My first name is spelled J-A-M-E-S, and my last name is W-I-L-L-I-A-M-S."
+    },
+    {
+      "timestamp": "2026-02-23T15:50:30.593173",
+      "speaker": "agent",
+      "text": "Would you like me to look up your record using phone number you have on file with us? If so, please provide that number. You're not sure, just let me know, and we'll confirm your name and date of birth again."
+    },
+    {
+      "timestamp": "2026-02-23T15:50:31.395280",
+      "speaker": "patient",
+      "text": "Sure, the phone number is 555-123-4567."
+    },
+    {
+      "timestamp": "2026-02-23T15:50:53.608657",
+      "speaker": "agent",
+      "text": "Let me confirm. I have your phone number as five five five one two three four five six seven, and your date of birth is November third nineteen sixty six. Is that correct?"
+    },
+    {
+      "timestamp": "2026-02-23T15:50:54.386590",
+      "speaker": "patient",
+      "text": "Yes, that's correct."
+    },
+    {
+      "timestamp": "2026-02-23T15:51:10.409383",
+      "speaker": "agent",
+      "text": "I can't pull up your information right now, but I can connect you to our patient support team. Please stay on the line while I transfer your call."
+    },
+    {
+      "timestamp": "2026-02-23T15:51:11.461107",
+      "speaker": "patient",
+      "text": "Actually, I just need to cancel my appointment for next Monday. Can you help me with that?"
+    },
+    {
+      "timestamp": "2026-02-23T15:51:16.139998",
+      "speaker": "agent",
+      "text": "Live transfer isn't available right now since this is a demo clinic. But"
+    },
+    {
+      "timestamp": "2026-02-23T15:51:17.926774",
+      "speaker": "patient",
+      "text": "No problem. Can you please just cancel my Monday appointment? I don't need to reschedule at the moment."
+    },
+    {
+      "timestamp": "2026-02-23T15:51:41.721981",
+      "speaker": "agent",
+      "text": "I'm unable to cancel your appointment because I can't verify your record in the system. I'll document this for our"
+    },
+    {
+      "timestamp": "2026-02-23T15:51:42.663472",
+      "speaker": "patient",
+      "text": "Alright, thank you. I'll follow up later to ensure the cancellation. Goodbye."
+    }
+  ]
+}

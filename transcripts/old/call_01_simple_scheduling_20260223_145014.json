@@ -1,0 +1,78 @@
+{
+  "scenario_id": 1,
+  "scenario_name": "simple_scheduling",
+  "call_sid": "unknown",
+  "started_at": "2026-02-23T14:50:14.341267",
+  "ended_at": "2026-02-23T14:51:10.025902",
+  "metadata": {
+    "stream_sid": "MZ32b8037ed2f9a0c494bc6215cfddf303",
+    "call_sid": "CA5e6752e71aea0a9664279a066eacc9ba"
+  },
+  "transcript": [
+    {
+      "timestamp": "2026-02-23T14:50:15.923940",
+      "speaker": "patient",
+      "text": "Hi, I'd like to schedule an appointment please."
+    },
+    {
+      "timestamp": "2026-02-23T14:50:26.823226",
+      "speaker": "agent",
+      "text": "Thank you for calling Pivot Point Orthopaedics."
+    },
+    {
+      "timestamp": "2026-02-23T14:50:28.579275",
+      "speaker": "patient",
+      "text": "Hi, I'm a new patient and I'd like to schedule a routine annual checkup for next week if possible."
+    },
+    {
+      "timestamp": "2026-02-23T14:50:31.824155",
+      "speaker": "agent",
+      "text": "Would you like to create a demo patient profile? I just need your first and last name to get started."
+    },
+    {
+      "timestamp": "2026-02-23T14:50:32.920803",
+      "speaker": "patient",
+      "text": "Sure, my name is Alex Chen."
+    },
+    {
+      "timestamp": "2026-02-23T14:50:44.459860",
+      "speaker": "agent",
+      "text": "Hi. Welcome to Pivot Point Orthopaedics. Would you like to create a demo patient"
+    },
+    {
+      "timestamp": "2026-02-23T14:50:45.324953",
+      "speaker": "patient",
+      "text": "Yes, I'd like to create a demo patient profile. My name is Alex Chen."
+    },
+    {
+      "timestamp": "2026-02-23T14:50:49.170290",
+      "speaker": "agent",
+      "text": "profile? I just need your first and last name to get started."
+    },
+    {
+      "timestamp": "2026-02-23T14:50:52.271991",
+      "speaker": "patient",
+      "text": "My name is Alex Chen."
+    },
+    {
+      "timestamp": "2026-02-23T14:50:58.870747",
+      "speaker": "agent",
+      "text": "Are you still there?"
+    },
+    {
+      "timestamp": "2026-02-23T14:50:59.559180",
+      "speaker": "patient",
+      "text": "Yes, I'm here. My name is Alex Chen."
+    },
+    {
+      "timestamp": "2026-02-23T14:51:09.065817",
+      "speaker": "agent",
+      "text": "I am going to end the call now. Goodbye."
+    },
+    {
+      "timestamp": "2026-02-23T14:51:09.509028",
+      "speaker": "patient",
+      "text": "Goodbye."
+    }
+  ]
+}

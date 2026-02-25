@@ -1,0 +1,138 @@
+{
+  "scenario_id": 2,
+  "scenario_name": "rescheduling",
+  "call_sid": "unknown",
+  "started_at": "2026-02-23T15:46:07.222587",
+  "ended_at": "2026-02-23T15:48:49.544252",
+  "metadata": {
+    "stream_sid": "MZe5e0b9bf2ff5846ca436d6d5528115b0",
+    "call_sid": "CA08f705890fd4821804d1d04483d6df45"
+  },
+  "transcript": [
+    {
+      "timestamp": "2026-02-23T15:46:08.828313",
+      "speaker": "patient",
+      "text": "Hi, I need to reschedule an appointment I have coming up."
+    },
+    {
+      "timestamp": "2026-02-23T15:46:21.333462",
+      "speaker": "agent",
+      "text": "Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. Am I speaking with Alex?"
+    },
+    {
+      "timestamp": "2026-02-23T15:46:22.255390",
+      "speaker": "patient",
+      "text": "No, this is Maria Santos. I have an appointment this Thursday at 2pm that I need to reschedule."
+    },
+    {
+      "timestamp": "2026-02-23T15:46:39.748336",
+      "speaker": "agent",
+      "text": "Got it, Maria. You please provide your date of birth?"
+    },
+    {
+      "timestamp": "2026-02-23T15:46:40.895340",
+      "speaker": "patient",
+      "text": "Sure, it's July 22, 1979."
+    },
+    {
+      "timestamp": "2026-02-23T15:46:58.885400",
+      "speaker": "agent",
+      "text": "Let me confirm your details. I have your name as Maria Santos. And your date of birth is July twenty second nineteen seventy nine."
+    },
+    {
+      "timestamp": "2026-02-23T15:46:59.655095",
+      "speaker": "patient",
+      "text": "That's correct."
+    },
+    {
+      "timestamp": "2026-02-23T15:47:02.706732",
+      "speaker": "agent",
+      "text": "Is that correct? If so, could you please spell your first and last name for me?"
+    },
+    {
+      "timestamp": "2026-02-23T15:47:03.317911",
+      "speaker": "patient",
+      "text": "Sure, it's M-A-R-I-A S-A-N-T-O-S."
+    },
+    {
+      "timestamp": "2026-02-23T15:47:07.415016",
+      "speaker": "agent",
+      "text": "Great. Could you please spell your first"
+    },
+    {
+      "timestamp": "2026-02-23T15:47:07.824069",
+      "speaker": "patient",
+      "text": "It's M-A-R-I-A."
+    },
+    {
+      "timestamp": "2026-02-23T15:47:23.081706",
+      "speaker": "agent",
+      "text": "Would you like me to look up your record using the phone number you have on file with us? If so, please provide that number. You're not sure, just let me know, and we can confirm your name and date of birth again."
+    },
+    {
+      "timestamp": "2026-02-23T15:47:23.846493",
+      "speaker": "patient",
+      "text": "The phone number on file should be 555-876-4321."
+    },
+    {
+      "timestamp": "2026-02-23T15:47:46.950217",
+      "speaker": "agent",
+      "text": "Let me confirm. Your phone number is five five five eight seven six four three two one. And your date of birth is July twenty second nineteen seventy nine."
+    },
+    {
+      "timestamp": "2026-02-23T15:47:48.585548",
+      "speaker": "patient",
+      "text": "Yes, that's correct."
+    },
+    {
+      "timestamp": "2026-02-23T15:47:50.159795",
+      "speaker": "agent",
+      "text": "Is that correct?"
+    },
+    {
+      "timestamp": "2026-02-23T15:47:50.624965",
+      "speaker": "patient",
+      "text": "Yes, that's correct."
+    },
+    {
+      "timestamp": "2026-02-23T15:48:11.106723",
+      "speaker": "agent",
+      "text": "Unable to pull up your record right now. I'll connect you to our patient support team so they can help reschedule your appointment. Please stay on the line."
+    },
+    {
+      "timestamp": "2026-02-23T15:48:12.028173",
+      "speaker": "patient",
+      "text": "Thank you, I appreciate it."
+    },
+    {
+      "timestamp": "2026-02-23T15:48:16.020397",
+      "speaker": "agent",
+      "text": "Live transfer is not available right now since this is a demo clinic."
+    },
+    {
+      "timestamp": "2026-02-23T15:48:18.376607",
+      "speaker": "patient",
+      "text": "Oh, I see. Could we try rescheduling my appointment for sometime next week? I'm available Monday, Tuesday, or Friday."
+    },
+    {
+      "timestamp": "2026-02-23T15:48:23.294239",
+      "speaker": "agent",
+      "text": "Got it. If you need anything else, just let me know."
+    },
+    {
+      "timestamp": "2026-02-23T15:48:24.324506",
+      "speaker": "patient",
+      "text": "Could you help me reschedule the appointment for next week? I'm flexible with Monday, Tuesday, or Friday."
+    },
+    {
+      "timestamp": "2026-02-23T15:48:48.057150",
+      "speaker": "agent",
+      "text": "I can't access your record right now. I'm unable to reschedule your appointment directly."
+    },
+    {
+      "timestamp": "2026-02-23T15:48:49.030683",
+      "speaker": "patient",
+      "text": "Alright, I'll try calling back later. Thank you for your help! Goodbye."
+    }
+  ]
+}

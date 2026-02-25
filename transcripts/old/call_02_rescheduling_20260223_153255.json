@@ -1,0 +1,28 @@
+{
+  "scenario_id": 2,
+  "scenario_name": "rescheduling",
+  "call_sid": "unknown",
+  "started_at": "2026-02-23T15:32:55.354775",
+  "ended_at": "2026-02-23T15:33:15.727599",
+  "metadata": {
+    "stream_sid": "MZb78398ac2ed7d7bbb3651712b223a574",
+    "call_sid": "CA30973120e95650c9117c708130c7b7a8"
+  },
+  "transcript": [
+    {
+      "timestamp": "2026-02-23T15:32:56.897683",
+      "speaker": "patient",
+      "text": "Hi, I need to reschedule an appointment I have coming up."
+    },
+    {
+      "timestamp": "2026-02-23T15:33:09.283908",
+      "speaker": "agent",
+      "text": "Thanks for calling PivotPoint Orthopedics. Part of Pretty Good AI. Am I speaking with Alex?"
+    },
+    {
+      "timestamp": "2026-02-23T15:33:09.814856",
+      "speaker": "patient",
+      "text": "No, this is Maria Santos. I'm calling to reschedule my appointment."
+    }
+  ]
+}

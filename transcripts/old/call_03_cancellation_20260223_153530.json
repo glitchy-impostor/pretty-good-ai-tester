@@ -1,0 +1,68 @@
+{
+  "scenario_id": 3,
+  "scenario_name": "cancellation",
+  "call_sid": "unknown",
+  "started_at": "2026-02-23T15:35:30.694618",
+  "ended_at": "2026-02-23T15:36:38.597608",
+  "metadata": {
+    "stream_sid": "MZffed631e03f4b2e0e13c7fc9985c608b",
+    "call_sid": "CAa7e05ffa69b92a2942bc3ade6f266b4f"
+  },
+  "transcript": [
+    {
+      "timestamp": "2026-02-23T15:35:32.207809",
+      "speaker": "patient",
+      "text": "Hi, I need to cancel an appointment."
+    },
+    {
+      "timestamp": "2026-02-23T15:35:43.898621",
+      "speaker": "agent",
+      "text": "Thanks for calling PivotPoint Orthopedics, part of Pretty Good AI. I speaking with Alex?"
+    },
+    {
+      "timestamp": "2026-02-23T15:35:44.727726",
+      "speaker": "patient",
+      "text": "Hi Alex, this is James Williams. I'd like to cancel my appointment for next Monday morning."
+    },
+    {
+      "timestamp": "2026-02-23T15:36:00.283120",
+      "speaker": "agent",
+      "text": "Got it, James. Can you please provide your date of birth?"
+    },
+    {
+      "timestamp": "2026-02-23T15:36:01.206274",
+      "speaker": "patient",
+      "text": "Sure, it's November 3, 1966."
+    },
+    {
+      "timestamp": "2026-02-23T15:36:18.408457",
+      "speaker": "agent",
+      "text": "Let me confirm. Your full name is James Williams, and your date of birth is November third nineteen sixty six?"
+    },
+    {
+      "timestamp": "2026-02-23T15:36:19.330573",
+      "speaker": "patient",
+      "text": "That's correct."
+    },
+    {
+      "timestamp": "2026-02-23T15:36:21.806688",
+      "speaker": "agent",
+      "text": "Is that correct? If so, could you please spell your first and last name for me?"
+    },
+    {
+      "timestamp": "2026-02-23T15:36:22.738342",
+      "speaker": "patient",
+      "text": "Certainly, it's J-A-M-E-S W-I-L-L-I-A-M-S."
+    },
+    {
+      "timestamp": "2026-02-23T15:36:26.944599",
+      "speaker": "agent",
+      "text": "Could you please"
+    },
+    {
+      "timestamp": "2026-02-23T15:36:27.964667",
+      "speaker": "patient",
+      "text": "James Williams, with a date of birth on November 3, 1966."
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "scenario_id": 8,
+  "scenario_name": "confused_elderly_patient",
+  "call_sid": "unknown",
+  "started_at": "2026-02-23T16:00:17.531247",
+  "ended_at": "2026-02-23T16:03:02.934825",
+  "metadata": {
+    "stream_sid": "MZ50bef80d21ec6fdb8f0c89a3cecc54db",
+    "call_sid": "CAfbeee2260d6f22b679984ea859d56faf"
+  },
+  "transcript": [
+    {
+      "timestamp": "2026-02-23T16:00:19.040960",
+      "speaker": "patient",
+      "text": "Hello? Yes, I... I need to make an appointment with the doctor."
+    },
+    {
+      "timestamp": "2026-02-23T16:00:31.376586",
+      "speaker": "agent",
+      "text": "For calling PivotPoint Orthopedics, part of Pretty Good AI. Am I speaking with Alex?"
+    },
+    {
+      "timestamp": "2026-02-23T16:00:32.335100",
+      "speaker": "patient",
+      "text": "Oh, I think you might have the wrong name, dear. I'm Dorothy Higgins. I need to see the doctor."
+    },
+    {
+      "timestamp": "2026-02-23T16:00:47.666678",
+      "speaker": "agent",
+      "text": "Got it, Dorothy. Can you please provide your date of birth?"
+    },
+    {
+      "timestamp": "2026-02-23T16:00:48.567945",
+      "speaker": "patient",
+      "text": "Yes, it's May... fifth... nineteen forty-three."
+    },
+    {
+      "timestamp": "2026-02-23T16:01:10.565990",
+      "speaker": "agent",
+      "text": "Let me confirm your details. I have your name as Dorothy Higgins, and your date of birth as May fifth nineteen forty three. Is that correct? If so, could you please spell your first and last name for me?"
+    },
+    {
+      "timestamp": "2026-02-23T16:01:12.326341",
+      "speaker": "patient",
+      "text": "Yes, that's right. It's Dorothy, D-O-R-O-T-H-Y, and Higgins, H-I-G-G-I-N-S."
+    },
+    {
+      "timestamp": "2026-02-23T16:01:34.698175",
+      "speaker": "agent",
+      "text": "Would you like me to look up your record using the phone number you have on file with us? If so, please tell me that number. If you're not sure, just let me know, and we can confirm your name and date of birth again."
+    },
+    {
+      "timestamp": "2026-02-23T16:01:35.986952",
+      "speaker": "patient",
+      "text": "Oh, I'm not too sure about the number. Maybe we can try with my name and date of birth again?"
+    },
+    {
+      "timestamp": "2026-02-23T16:01:52.715785",
+      "speaker": "agent",
+      "text": "No problem. Could you please spell your first and last name for me one more time and confirm your date of birth?"
+    },
+    {
+      "timestamp": "2026-02-23T16:01:54.000177",
+      "speaker": "patient",
+      "text": "Of course, dear. It's Dorothy, D-O-R-O-T-H-Y, and Higgins, H-I-G-G-I-N-S. My date of birth is May... fifth... nineteen forty-three."
+    },
+    {
+      "timestamp": "2026-02-23T16:02:18.389674",
+      "speaker": "agent",
+      "text": "I can't pull up your information right now, but I can connect you to our patient support team for help. Please stay on the line while I transfer you."
+    },
+    {
+      "timestamp": "2026-02-23T16:02:19.313680",
+      "speaker": "patient",
+      "text": "I'm sorry, can you say that again, dear? I'm a bit hard of hearing."
+    },
+    {
+      "timestamp": "2026-02-23T16:02:23.415044",
+      "speaker": "agent",
+      "text": "Live transfer isn't available right now since this is a demo clinic."
+    },
+    {
+      "timestamp": "2026-02-23T16:02:24.570077",
+      "speaker": "patient",
+      "text": "Oh, I see. Well, I need to make an appointment. Is there a morning slot available, maybe this week or next?"
+    },
+    {
+      "timestamp": "2026-02-23T16:02:48.417992",
+      "speaker": "agent",
+      "text": "I'll do my best to help. I can't access your record right now, I'll document your request and have our clinic support team"
+    },
+    {
+      "timestamp": "2026-02-23T16:02:49.892262",
+      "speaker": "patient",
+      "text": "Thank you, dear. I appreciate your help. I'll wait to hear back from them."
+    },
+    {
+      "timestamp": "2026-02-23T16:02:52.118824",
+      "speaker": "agent",
+      "text": "follow-up with you as soon as they can. Please stay on the line while I make a note for them."
+    },
+    {
+      "timestamp": "2026-02-23T16:02:52.795154",
+      "speaker": "patient",
+      "text": "Alright, thank you so much, honey. I'll wait."
+    }
+  ]
+}

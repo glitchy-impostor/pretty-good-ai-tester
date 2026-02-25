@@ -1,0 +1,138 @@
+{
+  "scenario_id": 16,
+  "scenario_name": "canonical_referral",
+  "call_sid": "unknown",
+  "started_at": "2026-02-23T17:11:34.733295",
+  "ended_at": "2026-02-23T17:14:25.786783",
+  "metadata": {
+    "stream_sid": "MZ817294f538027ec53438eea82fbb06f2",
+    "call_sid": "CAa5a5e35d3d5b2341758902a92987770a"
+  },
+  "transcript": [
+    {
+      "timestamp": "2026-02-23T17:11:35.966127",
+      "speaker": "patient",
+      "text": "Hi, my doctor referred me to your office for my knee. Dr. Kim sent over a referral."
+    },
+    {
+      "timestamp": "2026-02-23T17:11:47.737874",
+      "speaker": "agent",
+      "text": "Thanks for calling PivotPoint Orthopaedics. Part of Pretty Good AI. Must speak with Alex?"
+    },
+    {
+      "timestamp": "2026-02-23T17:11:48.520658",
+      "speaker": "patient",
+      "text": "No, I don't specifically need to speak with Alex. I'm just looking to schedule a follow-up consultation based on my referral from Dr. Kim for my knee."
+    },
+    {
+      "timestamp": "2026-02-23T17:12:13.418854",
+      "speaker": "agent",
+      "text": "Got it. Before we schedule your follow-up consultation,"
+    },
+    {
+      "timestamp": "2026-02-23T17:12:13.776329",
+      "speaker": "patient",
+      "text": "Sure, what information do you need from me?"
+    },
+    {
+      "timestamp": "2026-02-23T17:12:16.008423",
+      "speaker": "agent",
+      "text": "I'll need to confirm your identity for your records. Let me get that started."
+    },
+    {
+      "timestamp": "2026-02-23T17:12:16.559372",
+      "speaker": "patient",
+      "text": "Of course. My name is Susan Hartley, and my date of birth is April 3, 2000."
+    },
+    {
+      "timestamp": "2026-02-23T17:12:40.547597",
+      "speaker": "agent",
+      "text": "Let me confirm. Your name is Susan Hartley? And your date of birth is April third two thousand. Is that correct?"
+    },
+    {
+      "timestamp": "2026-02-23T17:12:40.806306",
+      "speaker": "patient",
+      "text": "Yes, that's correct."
+    },
+    {
+      "timestamp": "2026-02-23T17:12:43.320465",
+      "speaker": "agent",
+      "text": "If so, could you please spell your first and last name for me?"
+    },
+    {
+      "timestamp": "2026-02-23T17:12:43.808973",
+      "speaker": "patient",
+      "text": "Sure, it's S-U-S-A-N H-A-R-T-L-E-Y."
+    },
+    {
+      "timestamp": "2026-02-23T17:12:47.412946",
+      "speaker": "agent",
+      "text": "Great."
+    },
+    {
+      "timestamp": "2026-02-23T17:12:47.767340",
+      "speaker": "patient",
+      "text": "Thank you. What else do you need from me to schedule the appointment?"
+    },
+    {
+      "timestamp": "2026-02-23T17:13:09.778566",
+      "speaker": "agent",
+      "text": "To find your record, you like me to look it up using your phone number on file? If so, please provide the number you have with us. If you're not sure, just let me know and I'll confirm your name and date of birth again."
+    },
+    {
+      "timestamp": "2026-02-23T17:13:10.467964",
+      "speaker": "patient",
+      "text": "My phone number is 312-555-0512."
+    },
+    {
+      "timestamp": "2026-02-23T17:13:33.409251",
+      "speaker": "agent",
+      "text": "Let me confirm. I have your phone number as three one two five five five zero five one two. Your date of birth is April third two thousand. Is that correct?"
+    },
+    {
+      "timestamp": "2026-02-23T17:13:33.703681",
+      "speaker": "patient",
+      "text": "Yes, that's correct."
+    },
+    {
+      "timestamp": "2026-02-23T17:13:51.673442",
+      "speaker": "agent",
+      "text": "I can't perceive further right now, but I can make sure our clinic support team follows up with you. Please stay on the line while I connect you to our patient support team."
+    },
+    {
+      "timestamp": "2026-02-23T17:13:52.030009",
+      "speaker": "patient",
+      "text": "Sure, I'll stay on the line. Thank you for your help."
+    },
+    {
+      "timestamp": "2026-02-23T17:13:55.554975",
+      "speaker": "agent",
+      "text": "Live transfer is not avail"
+    },
+    {
+      "timestamp": "2026-02-23T17:13:56.092304",
+      "speaker": "patient",
+      "text": "No problem. Could we go ahead and schedule the appointment, or is there anything else I can do?"
+    },
+    {
+      "timestamp": "2026-02-23T17:14:01.289955",
+      "speaker": "agent",
+      "text": "This is"
+    },
+    {
+      "timestamp": "2026-02-23T17:14:01.730792",
+      "speaker": "patient",
+      "text": "Alright, could you let me know if there's anything else I need to provide to move forward with scheduling?"
+    },
+    {
+      "timestamp": "2026-02-23T17:14:24.309564",
+      "speaker": "agent",
+      "text": "I'm unable to complete the scheduling right now because I couldn't verify your record in the system. Our clinic support team will need to help you directly."
+    },
+    {
+      "timestamp": "2026-02-23T17:14:25.281568",
+      "speaker": "patient",
+      "text": "I understand. Could you please have someone from your clinic support team reach out to me? Thank you for your assistance. Goodbye!"
+    }
+  ]
+}

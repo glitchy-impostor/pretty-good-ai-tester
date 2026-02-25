@@ -1,0 +1,168 @@
+{
+  "scenario_id": 15,
+  "scenario_name": "canonical_new_patient",
+  "call_sid": "unknown",
+  "started_at": "2026-02-23T17:08:08.651927",
+  "ended_at": "2026-02-23T17:11:13.116010",
+  "metadata": {
+    "stream_sid": "MZe25dbe8b85b746b08e7af5224a30b8e9",
+    "call_sid": "CAc5616d6753c2a24f7a52254a9303230c"
+  },
+  "transcript": [
+    {
+      "timestamp": "2026-02-23T17:08:09.901540",
+      "speaker": "patient",
+      "text": "Hi, I'm a new patient. I hurt my knee a couple weeks ago and I'd like to come in and get it looked at."
+    },
+    {
+      "timestamp": "2026-02-23T17:08:22.164909",
+      "speaker": "agent",
+      "text": "Thanks for calling PivotPoint Orthopedics, part of Pretty Good AI. Am I speaking with Alex?"
+    },
+    {
+      "timestamp": "2026-02-23T17:08:22.742175",
+      "speaker": "patient",
+      "text": "No, my name is Carlos Rivera."
+    },
+    {
+      "timestamp": "2026-02-23T17:08:35.690982",
+      "speaker": "agent",
+      "text": "Got it, Carlos. Can you please provide your date of birth?"
+    },
+    {
+      "timestamp": "2026-02-23T17:08:36.101942",
+      "speaker": "patient",
+      "text": "Sure, it's July 7, 2000."
+    },
+    {
+      "timestamp": "2026-02-23T17:08:47.465766",
+      "speaker": "agent",
+      "text": "Got it, Carlos. How can I help you today?"
+    },
+    {
+      "timestamp": "2026-02-23T17:08:48.287364",
+      "speaker": "patient",
+      "text": "I injured my knee playing basketball about two weeks ago. It hurts when I go up stairs, so I'd like to schedule a consultation."
+    },
+    {
+      "timestamp": "2026-02-23T17:09:06.917320",
+      "speaker": "agent",
+      "text": "Understood."
+    },
+    {
+      "timestamp": "2026-02-23T17:09:07.322901",
+      "speaker": "patient",
+      "text": "Thank you."
+    },
+    {
+      "timestamp": "2026-02-23T17:09:14.749420",
+      "speaker": "agent",
+      "text": "For a new knee injury, I recommend a new patient consultation. Would you like to see a specific provider, or should I check availability with any provider?"
+    },
+    {
+      "timestamp": "2026-02-23T17:09:15.153885",
+      "speaker": "patient",
+      "text": "I don't have a specific provider in mind, so any available provider would be fine."
+    },
+    {
+      "timestamp": "2026-02-23T17:09:36.331032",
+      "speaker": "agent",
+      "text": "Got it. Let me check for the next available new patient consultation with any provider. One moment while I fetch the openings."
+    },
+    {
+      "timestamp": "2026-02-23T17:09:36.710841",
+      "speaker": "patient",
+      "text": "Sure, thank you."
+    },
+    {
+      "timestamp": "2026-02-23T17:09:40.601431",
+      "speaker": "agent",
+      "text": "There are no openings for a new patient consultation in the next week. Would you like"
+    },
+    {
+      "timestamp": "2026-02-23T17:09:41.114480",
+      "speaker": "patient",
+      "text": "Yes, please let me know the next available slot after that."
+    },
+    {
+      "timestamp": "2026-02-23T17:09:45.509430",
+      "speaker": "agent",
+      "text": "would you like to look for openings later in March?"
+    },
+    {
+      "timestamp": "2026-02-23T17:09:46.408344",
+      "speaker": "patient",
+      "text": "Yes, that would be great. Could you let me know the available times in March?"
+    },
+    {
+      "timestamp": "2026-02-23T17:10:05.438654",
+      "speaker": "agent",
+      "text": "Got it. I'll check for new patient consultation openings in March three. One moment while I look that up."
+    },
+    {
+      "timestamp": "2026-02-23T17:10:06.244411",
+      "speaker": "patient",
+      "text": "Thank you, I appreciate it."
+    },
+    {
+      "timestamp": "2026-02-23T17:10:10.322903",
+      "speaker": "agent",
+      "text": "The next available new patient consultation is Thursday, March fifth at three PM."
+    },
+    {
+      "timestamp": "2026-02-23T17:10:10.682685",
+      "speaker": "patient",
+      "text": "That works for me. Please schedule it."
+    },
+    {
+      "timestamp": "2026-02-23T17:10:15.010117",
+      "speaker": "agent",
+      "text": "Would you like to book the"
+    },
+    {
+      "timestamp": "2026-02-23T17:10:15.504989",
+      "speaker": "patient",
+      "text": "Yes, please go ahead and book that appointment for me."
+    },
+    {
+      "timestamp": "2026-02-23T17:10:19.163398",
+      "speaker": "agent",
+      "text": "let me con"
+    },
+    {
+      "timestamp": "2026-02-23T17:10:19.822277",
+      "speaker": "patient",
+      "text": "Thank you for scheduling that. Before I go, what should I expect before my first appointment? Do I need to fill out any paperwork?"
+    },
+    {
+      "timestamp": "2026-02-23T17:10:43.479403",
+      "speaker": "agent",
+      "text": "Your appointment is set for Thursday, March fifth, at three PM with doctor Doody Hauser. For your first visit,"
+    },
+    {
+      "timestamp": "2026-02-23T17:10:44.090153",
+      "speaker": "patient",
+      "text": "Great, thank you. What should I do to prepare for the appointment?"
+    },
+    {
+      "timestamp": "2026-02-23T17:10:49.045487",
+      "speaker": "agent",
+      "text": "please bring a government issued photo ID and your insurance card. No paperwork is needed ahead of time. Would you like a text reminder for your appoint"
+    },
+    {
+      "timestamp": "2026-02-23T17:10:49.641920",
+      "speaker": "patient",
+      "text": "Yes, a text reminder would be helpful. Thank you!"
+    },
+    {
+      "timestamp": "2026-02-23T17:11:11.761084",
+      "speaker": "agent",
+      "text": "To prepare for your appointment, just bring your photo ID and insurance card, No other preparation is needed. If you have any recent medical records or imaging, you can bring those too, but it's not required."
+    },
+    {
+      "timestamp": "2026-02-23T17:11:12.602973",
+      "speaker": "patient",
+      "text": "Thank you for the information. I'll see you on March fifth. Goodbye!"
+    }
+  ]
+}

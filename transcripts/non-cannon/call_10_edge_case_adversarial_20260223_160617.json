@@ -1,0 +1,168 @@
+{
+  "scenario_id": 10,
+  "scenario_name": "edge_case_adversarial",
+  "call_sid": "unknown",
+  "started_at": "2026-02-23T16:06:17.051705",
+  "ended_at": "2026-02-23T16:09:15.695598",
+  "metadata": {
+    "stream_sid": "MZb0361a39c82001848ff521bc1bcc1eea",
+    "call_sid": "CA86245e0c2096cdb7c32ed555a430955f"
+  },
+  "transcript": [
+    {
+      "timestamp": "2026-02-23T16:06:18.792520",
+      "speaker": "patient",
+      "text": "Hi, I need... help."
+    },
+    {
+      "timestamp": "2026-02-23T16:06:30.196783",
+      "speaker": "agent",
+      "text": "Thanks for calling PivotPoint Orthopaedics, part of Pretty Good AI. Am I speaking with Alex?"
+    },
+    {
+      "timestamp": "2026-02-23T16:06:31.034731",
+      "speaker": "patient",
+      "text": "No, it's Pat. I'm looking for help, the medical kind."
+    },
+    {
+      "timestamp": "2026-02-23T16:06:44.435301",
+      "speaker": "agent",
+      "text": "Got it. That are you calling about care for yourself or for someone else?"
+    },
+    {
+      "timestamp": "2026-02-23T16:06:44.979604",
+      "speaker": "patient",
+      "text": "I'm not sure if this is the right number. What do you do exactly?"
+    },
+    {
+      "timestamp": "2026-02-23T16:07:07.746223",
+      "speaker": "agent",
+      "text": "Pivot Point Orthopedics is a clinic that helps with joint, muscle, and bone conditions. We treat injuries, chronic pain, and offer physical therapy. We have doctors and physical therapists who see both new and returning patients."
+    },
+    {
+      "timestamp": "2026-02-23T16:07:08.329518",
+      "speaker": "patient",
+      "text": "Okay, can I get an appointment for... next whenever works?"
+    },
+    {
+      "timestamp": "2026-02-23T16:07:10.573205",
+      "speaker": "agent",
+      "text": "There something specific you need help with today?"
+    },
+    {
+      "timestamp": "2026-02-23T16:07:11.143554",
+      "speaker": "patient",
+      "text": "Sorry, I'm kind of in a weird headspace today. Is this going to be okay?"
+    },
+    {
+      "timestamp": "2026-02-23T16:07:27.853402",
+      "speaker": "agent",
+      "text": "Yes. I can help you schedule appointment. First, I'll need your full name and date of birth to get started."
+    },
+    {
+      "timestamp": "2026-02-23T16:07:31.747601",
+      "speaker": "patient",
+      "text": "My name's Pat. Umm... June? June something... 1990 I think."
+    },
+    {
+      "timestamp": "2026-02-23T16:07:49.882082",
+      "speaker": "agent",
+      "text": "No problem, Pat. You tell me your last name and the full date of birth including the month, day, and year? This helps me find your record and set up your appointment."
+    },
+    {
+      "timestamp": "2026-02-23T16:07:50.788406",
+      "speaker": "patient",
+      "text": "Sorry about that. My date of birth is June 15, 1990, and my phone number is 555-999-1234."
+    },
+    {
+      "timestamp": "2026-02-23T16:08:10.039780",
+      "speaker": "agent",
+      "text": "Thanks, Pat. Let me confirm. I have your phone number as five five five"
+    },
+    {
+      "timestamp": "2026-02-23T16:08:11.085016",
+      "speaker": "patient",
+      "text": "Yes, that's right."
+    },
+    {
+      "timestamp": "2026-02-23T16:08:14.601034",
+      "speaker": "agent",
+      "text": "one two three four Can you please tell me your last"
+    },
+    {
+      "timestamp": "2026-02-23T16:08:16.043283",
+      "speaker": "patient",
+      "text": "Oh, sure. It's Johnson."
+    },
+    {
+      "timestamp": "2026-02-23T16:08:19.529054",
+      "speaker": "agent",
+      "text": "Great. And what is your last name?"
+    },
+    {
+      "timestamp": "2026-02-23T16:08:20.592261",
+      "speaker": "patient",
+      "text": "It's Johnson."
+    },
+    {
+      "timestamp": "2026-02-23T16:08:39.470365",
+      "speaker": "agent",
+      "text": "Got it. Pat Johnson. Date of birth? June fifteenth nineteen ninety. Let me check your record now."
+    },
+    {
+      "timestamp": "2026-02-23T16:08:40.133439",
+      "speaker": "patient",
+      "text": "Thank you. I'll wait."
+    },
+    {
+      "timestamp": "2026-02-23T16:08:45.834308",
+      "speaker": "agent",
+      "text": "Pat, would you like me to look up your record using your phone number? If so, please provide the number you have on file with us. If you're not sure, I can con"
+    },
+    {
+      "timestamp": "2026-02-23T16:08:46.990124",
+      "speaker": "patient",
+      "text": "Yes, please use the number I gave you: 555-999-1234."
+    },
+    {
+      "timestamp": "2026-02-23T16:08:51.135273",
+      "speaker": "agent",
+      "text": "No problem. Just to be sure, want me to use your phone number to look"
+    },
+    {
+      "timestamp": "2026-02-23T16:08:51.764017",
+      "speaker": "patient",
+      "text": "Yes, that would be great."
+    },
+    {
+      "timestamp": "2026-02-23T16:09:02.152861",
+      "speaker": "agent",
+      "text": "Let me confirm."
+    },
+    {
+      "timestamp": "2026-02-23T16:09:03.009305",
+      "speaker": "patient",
+      "text": "Thanks, I'll hold on."
+    },
+    {
+      "timestamp": "2026-02-23T16:09:10.105903",
+      "speaker": "agent",
+      "text": "Have your phone number as five five five nine nine nine. One two"
+    },
+    {
+      "timestamp": "2026-02-23T16:09:10.716212",
+      "speaker": "patient",
+      "text": "That's correct."
+    },
+    {
+      "timestamp": "2026-02-23T16:09:14.508442",
+      "speaker": "agent",
+      "text": "I can't proceed further right now."
+    },
+    {
+      "timestamp": "2026-02-23T16:09:15.048657",
+      "speaker": "patient",
+      "text": "Alright, thank you for your help. Goodbye!"
+    }
+  ]
+}

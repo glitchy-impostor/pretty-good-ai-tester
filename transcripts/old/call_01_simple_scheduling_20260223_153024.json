@@ -1,0 +1,138 @@
+{
+  "scenario_id": 1,
+  "scenario_name": "simple_scheduling",
+  "call_sid": "unknown",
+  "started_at": "2026-02-23T15:30:24.417079",
+  "ended_at": "2026-02-23T15:33:15.731160",
+  "metadata": {
+    "stream_sid": "MZ3d15ad2dab2d4c226f03e345955b84f5",
+    "call_sid": "CA8fb1696bd42a786414fa9ddff7a4c838"
+  },
+  "transcript": [
+    {
+      "timestamp": "2026-02-23T15:30:26.043123",
+      "speaker": "patient",
+      "text": "Hi, I'd like to schedule an appointment please."
+    },
+    {
+      "timestamp": "2026-02-23T15:30:37.213769",
+      "speaker": "agent",
+      "text": "Thanks for calling PivotPoint Orthopedics. Part of Pretty Good AI. Am I speaking with Alex?"
+    },
+    {
+      "timestamp": "2026-02-23T15:30:37.839103",
+      "speaker": "patient",
+      "text": "Yes, this is Alex Chen."
+    },
+    {
+      "timestamp": "2026-02-23T15:30:49.510592",
+      "speaker": "agent",
+      "text": "Got it, Alex. Can you please provide your date of birth?"
+    },
+    {
+      "timestamp": "2026-02-23T15:30:50.257069",
+      "speaker": "patient",
+      "text": "Sure, it's March 15, 1992."
+    },
+    {
+      "timestamp": "2026-02-23T15:31:02.087928",
+      "speaker": "agent",
+      "text": "Got it, Alex. How can I help you today?"
+    },
+    {
+      "timestamp": "2026-02-23T15:31:02.933081",
+      "speaker": "patient",
+      "text": "I'd like to schedule a routine annual checkup for next week, if possible."
+    },
+    {
+      "timestamp": "2026-02-23T15:31:23.499449",
+      "speaker": "agent",
+      "text": "Thanks, Alex. At Diddeh Point Orthopedics, we offer new patient consultations, follow-up consultations, procedure appointments,"
+    },
+    {
+      "timestamp": "2026-02-23T15:31:24.522429",
+      "speaker": "patient",
+      "text": "I'm looking for a new patient consultation for a routine checkup."
+    },
+    {
+      "timestamp": "2026-02-23T15:31:36.334471",
+      "speaker": "agent",
+      "text": "and physical therapy sessions. Don't have a specific annual checkup, but a new patient consultation or follow-up consultation may fit your needs. Do you know which type you like, or would you like a quick overview of these options?"
+    },
+    {
+      "timestamp": "2026-02-23T15:31:37.303072",
+      "speaker": "patient",
+      "text": "A new patient consultation sounds like what I need. Let's go with that."
+    },
+    {
+      "timestamp": "2026-02-23T15:31:55.447117",
+      "speaker": "agent",
+      "text": "Perfect. We have new patient consultations available with several providers next week. Do you have a preferred provider or time of day for your appointment?"
+    },
+    {
+      "timestamp": "2026-02-23T15:31:56.369809",
+      "speaker": "patient",
+      "text": "I don't have a preferred provider, but I'm free any day next week except Wednesday. Morning appointments would be great if possible."
+    },
+    {
+      "timestamp": "2026-02-23T15:32:21.569398",
+      "speaker": "agent",
+      "text": "Got it. Let me check for new patient console openings next week in the morning. Excluding Wednesday. One moment while I fetch the available times."
+    },
+    {
+      "timestamp": "2026-02-23T15:32:22.557806",
+      "speaker": "patient",
+      "text": "Sure, thank you."
+    },
+    {
+      "timestamp": "2026-02-23T15:32:26.679959",
+      "speaker": "agent",
+      "text": "There aren't any morning new patient consultation openings next week"
+    },
+    {
+      "timestamp": "2026-02-23T15:32:27.600261",
+      "speaker": "patient",
+      "text": "In that case, do you have any afternoon slots available next week, except Wednesday?"
+    },
+    {
+      "timestamp": "2026-02-23T15:32:31.594060",
+      "speaker": "agent",
+      "text": "Would you like me to check for morning opening?"
+    },
+    {
+      "timestamp": "2026-02-23T15:32:32.412901",
+      "speaker": "patient",
+      "text": "Yes, please check for any afternoon openings next week, except Wednesday."
+    },
+    {
+      "timestamp": "2026-02-23T15:32:52.484733",
+      "speaker": "agent",
+      "text": "Don and Alex. Let me check for new patient consultation openings in the afternoon next week. Excluding Wednesday. One moment while I look that up."
+    },
+    {
+      "timestamp": "2026-02-23T15:32:53.405266",
+      "speaker": "patient",
+      "text": "Thank you. I'll wait."
+    },
+    {
+      "timestamp": "2026-02-23T15:32:57.264435",
+      "speaker": "agent",
+      "text": "There aren't any afternoon new patient consultation"
+    },
+    {
+      "timestamp": "2026-02-23T15:32:58.102164",
+      "speaker": "patient",
+      "text": "I understand. Could you please check for any available slots the following week?"
+    },
+    {
+      "timestamp": "2026-02-23T15:33:02.793321",
+      "speaker": "agent",
+      "text": "Would you like me to check for openings the fall?"
+    },
+    {
+      "timestamp": "2026-02-23T15:33:03.671620",
+      "speaker": "patient",
+      "text": "Yes, please check for any available openings the following week. Thank you."
+    }
+  ]
+}

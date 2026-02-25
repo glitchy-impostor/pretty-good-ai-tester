@@ -1,0 +1,138 @@
+{
+  "scenario_id": 12,
+  "scenario_name": "canonical_reschedule",
+  "call_sid": "unknown",
+  "started_at": "2026-02-23T17:00:26.525460",
+  "ended_at": "2026-02-23T17:03:45.847631",
+  "metadata": {
+    "stream_sid": "MZ1b0c26fdee3dda8336ee341431f500a9",
+    "call_sid": "CA50d679c477ce77ba073f3f6422a343d1"
+  },
+  "transcript": [
+    {
+      "timestamp": "2026-02-23T17:00:27.889139",
+      "speaker": "patient",
+      "text": "Hi, I need to reschedule an appointment I have coming up on Tuesday."
+    },
+    {
+      "timestamp": "2026-02-23T17:00:39.434319",
+      "speaker": "agent",
+      "text": "Thanks for calling Pivot Point Orthopedics. Part of Pretty Good AI. Am I speaking with Alex?"
+    },
+    {
+      "timestamp": "2026-02-23T17:00:40.439711",
+      "speaker": "patient",
+      "text": "No, this is Thomas Nguyen."
+    },
+    {
+      "timestamp": "2026-02-23T17:00:53.979049",
+      "speaker": "agent",
+      "text": "Got it, Thomas. Are you calling for yourself or for someone else today? How can I help you?"
+    },
+    {
+      "timestamp": "2026-02-23T17:00:54.886942",
+      "speaker": "patient",
+      "text": "I'm calling for myself. I need to reschedule my appointment."
+    },
+    {
+      "timestamp": "2026-02-23T17:01:10.727234",
+      "speaker": "agent",
+      "text": "Can you please provide your date of birth?"
+    },
+    {
+      "timestamp": "2026-02-23T17:01:11.221766",
+      "speaker": "patient",
+      "text": "Sure, it's August 14, 2000."
+    },
+    {
+      "timestamp": "2026-02-23T17:01:33.629118",
+      "speaker": "agent",
+      "text": "Let me confirm your details. I have your name as Thomas Nguyen and your date of birth as August fourteenth two thousand. Is that correct? If so, could you please spell your first and last name, for me?"
+    },
+    {
+      "timestamp": "2026-02-23T17:01:34.256952",
+      "speaker": "patient",
+      "text": "Yes, that's correct. My first name is Thomas, T-H-O-M-A-S, and my last name is Nguyen, N-G-U-Y-E-N."
+    },
+    {
+      "timestamp": "2026-02-23T17:01:57.684779",
+      "speaker": "agent",
+      "text": "Would you like me to look up your record using the phone number you have on file with us? If so, please tell me that number. If you're not sure, just let me know, and I'll confirm your name and date of birth again."
+    },
+    {
+      "timestamp": "2026-02-23T17:01:58.746164",
+      "speaker": "patient",
+      "text": "Yes, you can use the phone number. It's 619-555-0142."
+    },
+    {
+      "timestamp": "2026-02-23T17:02:21.237479",
+      "speaker": "agent",
+      "text": "Let me confirm. Your phone number is six one nine five five five zero one four two, and your date of birth is August fourteenth"
+    },
+    {
+      "timestamp": "2026-02-23T17:02:21.517908",
+      "speaker": "patient",
+      "text": "That's correct."
+    },
+    {
+      "timestamp": "2026-02-23T17:02:22.846999",
+      "speaker": "agent",
+      "text": "two thousand. Is that correct?"
+    },
+    {
+      "timestamp": "2026-02-23T17:02:23.469783",
+      "speaker": "patient",
+      "text": "Yes, that's right."
+    },
+    {
+      "timestamp": "2026-02-23T17:02:43.075675",
+      "speaker": "agent",
+      "text": "I can't pull up your record right now, so I can't help with rescheduling at the moment. I'll make sure our clinic support team follows up with you. Please hold on while I document this for them."
+    },
+    {
+      "timestamp": "2026-02-23T17:02:44.042389",
+      "speaker": "patient",
+      "text": "I really need to reschedule today. Can you try looking up my appointment using my name and date of birth?"
+    },
+    {
+      "timestamp": "2026-02-23T17:02:49.107760",
+      "speaker": "agent",
+      "text": "Live transfer isn't available right now since this is a"
+    },
+    {
+      "timestamp": "2026-02-23T17:02:49.980428",
+      "speaker": "patient",
+      "text": "Could you please try one more time to find my appointment using my name and date of birth? I need to make sure I get this rescheduled."
+    },
+    {
+      "timestamp": "2026-02-23T17:03:14.594489",
+      "speaker": "agent",
+      "text": "I understand how important this is. I'm unable to access your record without a match in our system."
+    },
+    {
+      "timestamp": "2026-02-23T17:03:15.729765",
+      "speaker": "patient",
+      "text": "Is there any way to escalate this or speak to someone else who might help with rescheduling today?"
+    },
+    {
+      "timestamp": "2026-02-23T17:03:19.358803",
+      "speaker": "agent",
+      "text": "So I can't reschedule your appointment right now. I'll make sure our clinic support team follows up you as soon as possible to help with your request."
+    },
+    {
+      "timestamp": "2026-02-23T17:03:20.136067",
+      "speaker": "patient",
+      "text": "I understand. Can you please ensure that they confirm both the cancellation of my current appointment and the new appointment time when they follow up?"
+    },
+    {
+      "timestamp": "2026-02-23T17:03:44.846094",
+      "speaker": "agent",
+      "text": "Absolutely. I'll let the clinic support team know you want to reschedule your appointment and need"
+    },
+    {
+      "timestamp": "2026-02-23T17:03:45.328852",
+      "speaker": "patient",
+      "text": "Thank you for your help. I look forward to hearing from them soon. Goodbye."
+    }
+  ]
+}

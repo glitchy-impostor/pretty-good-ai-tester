@@ -1,0 +1,88 @@
+{
+  "scenario_id": 5,
+  "scenario_name": "medication_refill_complex",
+  "call_sid": "unknown",
+  "started_at": "2026-02-23T15:55:05.620972",
+  "ended_at": "2026-02-23T15:57:09.511013",
+  "metadata": {
+    "stream_sid": "MZ9f97f5f5c8f52228157f134c2aae91bd",
+    "call_sid": "CA7d515b502bb7bbab43d63edc5ea762f8"
+  },
+  "transcript": [
+    {
+      "timestamp": "2026-02-23T15:55:07.075018",
+      "speaker": "patient",
+      "text": "Hello, I need to refill my Jardiance prescription, it's for my diabetes."
+    },
+    {
+      "timestamp": "2026-02-23T15:55:16.781670",
+      "speaker": "agent",
+      "text": "Thanks for calling PivotPoint Orthopedics."
+    },
+    {
+      "timestamp": "2026-02-23T15:55:18.381822",
+      "speaker": "patient",
+      "text": "Oh, I'm sorry. I was trying to reach Walgreens for a refill on my Jardiance. Could you direct me to the right number or transfer me?"
+    },
+    {
+      "timestamp": "2026-02-23T15:55:22.174707",
+      "speaker": "agent",
+      "text": "Part of Pretty Good AI. Am I speaking with Alex?"
+    },
+    {
+      "timestamp": "2026-02-23T15:55:23.232098",
+      "speaker": "patient",
+      "text": "No, my name is Robert Kowalski. I'm trying to refill my Jardiance prescription. Could you help me with that?"
+    },
+    {
+      "timestamp": "2026-02-23T15:55:46.476585",
+      "speaker": "agent",
+      "text": "Got it. I can help with your refill request. Could you please provide your date of birth?"
+    },
+    {
+      "timestamp": "2026-02-23T15:55:47.320418",
+      "speaker": "patient",
+      "text": "Sure, it's September 12, 1953."
+    },
+    {
+      "timestamp": "2026-02-23T15:56:03.680919",
+      "speaker": "agent",
+      "text": "Let me confirm your details. I have your name as Robert Kowalski and your date of birth"
+    },
+    {
+      "timestamp": "2026-02-23T15:56:04.206811",
+      "speaker": "patient",
+      "text": "Yes, that's correct."
+    },
+    {
+      "timestamp": "2026-02-23T15:56:10.604006",
+      "speaker": "agent",
+      "text": "as September twelfth nineteen fifty three. Is that correct? If so, could you please spell your first and last name for me?"
+    },
+    {
+      "timestamp": "2026-02-23T15:56:11.256684",
+      "speaker": "patient",
+      "text": "Yes, that's correct. My first name is Robert, R-O-B-E-R-T, and my last name is Kowalski, K-O-W-A-L-S-K-I."
+    },
+    {
+      "timestamp": "2026-02-23T15:56:34.370516",
+      "speaker": "agent",
+      "text": "I can't access your information right now, but I can make sure our clinic support team follows up with you."
+    },
+    {
+      "timestamp": "2026-02-23T15:56:54.059323",
+      "speaker": "patient",
+      "text": "I'd appreciate that. Just to confirm, I'm looking to refill my Jardiance, J-A-R-D-I-A-N-C-E, 25mg for diabetes. Thank you for your help."
+    },
+    {
+      "timestamp": "2026-02-23T15:56:58.495037",
+      "speaker": "agent",
+      "text": "Please hold while I document your request for a Jardiance refill."
+    },
+    {
+      "timestamp": "2026-02-23T15:56:59.179464",
+      "speaker": "patient",
+      "text": "Thank you, I appreciate it."
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "scenario_id": 1,
+  "scenario_name": "simple_scheduling",
+  "call_sid": "unknown",
+  "started_at": "2026-02-23T15:00:58.574556",
+  "ended_at": "2026-02-23T15:03:06.694871",
+  "metadata": {
+    "stream_sid": "MZ94206cebb20024ca4555745c05bad2b0",
+    "call_sid": "CAe2b825afcea94420468a64757734ee41"
+  },
+  "transcript": [
+    {
+      "timestamp": "2026-02-23T15:01:00.229944",
+      "speaker": "patient",
+      "text": "Hi, I'd like to schedule an appointment please."
+    },
+    {
+      "timestamp": "2026-02-23T15:01:11.596418",
+      "speaker": "agent",
+      "text": "Got it."
+    },
+    {
+      "timestamp": "2026-02-23T15:01:12.544440",
+      "speaker": "patient",
+      "text": "Great! I'm a new patient and looking to schedule a routine annual checkup. I'm available any day next week except Wednesday."
+    },
+    {
+      "timestamp": "2026-02-23T15:01:18.386597",
+      "speaker": "agent",
+      "text": "Before we schedule, would you like to create a demo patient profile?"
+    },
+    {
+      "timestamp": "2026-02-23T15:01:19.073043",
+      "speaker": "patient",
+      "text": "Yes, please."
+    },
+    {
+      "timestamp": "2026-02-23T15:01:20.278744",
+      "speaker": "agent",
+      "text": "Just need your first and last name to get started."
+    },
+    {
+      "timestamp": "2026-02-23T15:01:20.719963",
+      "speaker": "patient",
+      "text": "My name is Alex Chen."
+    },
+    {
+      "timestamp": "2026-02-23T15:01:40.060456",
+      "speaker": "agent",
+      "text": "Your patient profile has been"
+    },
+    {
+      "timestamp": "2026-02-23T15:01:40.987746",
+      "speaker": "patient",
+      "text": "created. Thank you! What information do you need next?"
+    },
+    {
+      "timestamp": "2026-02-23T15:01:43.749805",
+      "speaker": "agent",
+      "text": "created, and your date of birth is July fourth two thousand for demo purposes."
+    },
+    {
+      "timestamp": "2026-02-23T15:01:45.194974",
+      "speaker": "patient",
+      "text": "Actually, my date of birth is March 15, 1992. Could you update that, please?"
+    },
+    {
+      "timestamp": "2026-02-23T15:01:48.831089",
+      "speaker": "agent",
+      "text": "How may I help you today?"
+    },
+    {
+      "timestamp": "2026-02-23T15:01:50.000243",
+      "speaker": "patient",
+      "text": "I'm looking to schedule a routine annual checkup for next week. I'm available any day except Wednesday."
+    },
+    {
+      "timestamp": "2026-02-23T15:02:08.656100",
+      "speaker": "agent",
+      "text": "Got it, Alex."
+    },
+    {
+      "timestamp": "2026-02-23T15:02:09.556404",
+      "speaker": "patient",
+      "text": "Thank you!"
+    },
+    {
+      "timestamp": "2026-02-23T15:02:13.445094",
+      "speaker": "agent",
+      "text": "I have your date of birth as March fifteenth nineteen ninety two."
+    },
+    {
+      "timestamp": "2026-02-23T15:02:13.963066",
+      "speaker": "patient",
+      "text": "Yes, that's correct."
+    },
+    {
+      "timestamp": "2026-02-23T15:02:16.159470",
+      "speaker": "agent",
+      "text": "For a routine"
+    },
+    {
+      "timestamp": "2026-02-23T15:02:16.930062",
+      "speaker": "patient",
+      "text": "annual checkup, that's right."
+    },
+    {
+      "timestamp": "2026-02-23T15:02:19.382975",
+      "speaker": "agent",
+      "text": "okay. For your"
+    },
+    {
+      "timestamp": "2026-02-23T15:02:19.827316",
+      "speaker": "patient",
+      "text": "insurance, I have Blue Cross Blue Shield."
+    },
+    {
+      "timestamp": "2026-02-23T15:02:30.785596",
+      "speaker": "agent",
+      "text": "Got it."
+    },
+    {
+      "timestamp": "2026-02-23T15:02:31.982091",
+      "speaker": "patient",
+      "text": "Great! When would be the best time next week to schedule the appointment?"
+    },
+    {
+      "timestamp": "2026-02-23T15:02:35.580162",
+      "speaker": "agent",
+      "text": "For scheduling, PivotPoint Orthopedics offers new patient consultations"
+    },
+    {
+      "timestamp": "2026-02-23T15:02:39.465991",
+      "speaker": "patient",
+      "text": "That sounds good. As long as it's not Wednesday, I should be able to make it."
+    },
+    {
+      "timestamp": "2026-02-23T15:02:42.362210",
+      "speaker": "agent",
+      "text": "but not routine annual checkups."
+    },
+    {
+      "timestamp": "2026-02-23T15:02:43.601948",
+      "speaker": "patient",
+      "text": "I see, thanks for letting me know. Could you recommend another provider or office that does routine annual checkups?"
+    },
+    {
+      "timestamp": "2026-02-23T15:03:00.242061",
+      "speaker": "agent",
+      "text": "Pivot Point Orthopedics."
+    },
+    {
+      "timestamp": "2026-02-23T15:03:05.772710",
+      "speaker": "patient",
+      "text": "Thank you for your help. I'll look into another provider for my annual checkup. Have a great day!"
+    }
+  ]
+}

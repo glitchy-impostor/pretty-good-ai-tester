@@ -1,0 +1,158 @@
+{
+  "scenario_id": 1,
+  "scenario_name": "simple_scheduling",
+  "call_sid": "unknown",
+  "started_at": "2026-02-23T15:06:50.750239",
+  "ended_at": "2026-02-23T15:09:05.294534",
+  "metadata": {
+    "stream_sid": "MZdd7577eae0083ea4698e541c75a98919",
+    "call_sid": "CA762866ea67d668cab43b9020aa4e68e1"
+  },
+  "transcript": [
+    {
+      "timestamp": "2026-02-23T15:06:52.372006",
+      "speaker": "patient",
+      "text": "Hi, I'd like to schedule an appointment please."
+    },
+    {
+      "timestamp": "2026-02-23T15:07:03.221726",
+      "speaker": "agent",
+      "text": "Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI."
+    },
+    {
+      "timestamp": "2026-02-23T15:07:04.164946",
+      "speaker": "patient",
+      "text": "Thank you! I'm looking to schedule a routine annual checkup for next week if possible. I'm a new patient."
+    },
+    {
+      "timestamp": "2026-02-23T15:07:08.017560",
+      "speaker": "agent",
+      "text": "Am I speaking with Alex?"
+    },
+    {
+      "timestamp": "2026-02-23T15:07:08.563646",
+      "speaker": "patient",
+      "text": "Yes, this is Alex Chen."
+    },
+    {
+      "timestamp": "2026-02-23T15:07:27.506223",
+      "speaker": "agent",
+      "text": "Let me verify your information first, then I'll help you schedule your new patient consultation for next"
+    },
+    {
+      "timestamp": "2026-02-23T15:07:28.380321",
+      "speaker": "patient",
+      "text": "Sure, that sounds good."
+    },
+    {
+      "timestamp": "2026-02-23T15:07:30.653440",
+      "speaker": "agent",
+      "text": "week. One moment while I confirm your details."
+    },
+    {
+      "timestamp": "2026-02-23T15:07:31.302960",
+      "speaker": "patient",
+      "text": "Of course, take your time."
+    },
+    {
+      "timestamp": "2026-02-23T15:07:41.637538",
+      "speaker": "agent",
+      "text": "Live transfer isn't available right now since"
+    },
+    {
+      "timestamp": "2026-02-23T15:07:42.990858",
+      "speaker": "patient",
+      "text": "No problem. I can give you my information if needed."
+    },
+    {
+      "timestamp": "2026-02-23T15:07:46.336625",
+      "speaker": "agent",
+      "text": "is a demo clinic, but I can still help you schedule your new patient consult"
+    },
+    {
+      "timestamp": "2026-02-23T15:07:46.996769",
+      "speaker": "patient",
+      "text": "Great! I'm available any day next week except Wednesday."
+    },
+    {
+      "timestamp": "2026-02-23T15:07:50.631660",
+      "speaker": "agent",
+      "text": "Let's continue."
+    },
+    {
+      "timestamp": "2026-02-23T15:07:51.430502",
+      "speaker": "patient",
+      "text": "Sure, what else do you need from me to proceed?"
+    },
+    {
+      "timestamp": "2026-02-23T15:08:02.322701",
+      "speaker": "agent",
+      "text": "Thanks, Alex."
+    },
+    {
+      "timestamp": "2026-02-23T15:08:03.279765",
+      "speaker": "patient",
+      "text": "You're welcome!"
+    },
+    {
+      "timestamp": "2026-02-23T15:08:06.088521",
+      "speaker": "agent",
+      "text": "I'll need to collect your details to set up your new patient consultation."
+    },
+    {
+      "timestamp": "2026-02-23T15:08:07.268782",
+      "speaker": "patient",
+      "text": "Of course. My date of birth is March 15, 1992, and my insurance is Blue Cross Blue Shield. My phone number is 555-234-5678."
+    },
+    {
+      "timestamp": "2026-02-23T15:08:13.697275",
+      "speaker": "agent",
+      "text": "Let's start with your date of birth. Let's get your date of birth to move forward with"
+    },
+    {
+      "timestamp": "2026-02-23T15:08:14.299901",
+      "speaker": "patient",
+      "text": "My date of birth is March 15, 1992."
+    },
+    {
+      "timestamp": "2026-02-23T15:08:36.247071",
+      "speaker": "agent",
+      "text": "Pardon, Alex. I'm having trouble verifying your information in the system."
+    },
+    {
+      "timestamp": "2026-02-23T15:08:37.472996",
+      "speaker": "patient",
+      "text": "No worries. Should I repeat any information or provide anything else to help?"
+    },
+    {
+      "timestamp": "2026-02-23T15:08:42.261521",
+      "speaker": "agent",
+      "text": "System, so I can't proceed further right now. I'll make sure our clinic support"
+    },
+    {
+      "timestamp": "2026-02-23T15:08:43.075535",
+      "speaker": "patient",
+      "text": "I understand. Please let me know what the next steps are or how I can follow up."
+    },
+    {
+      "timestamp": "2026-02-23T15:08:58.263318",
+      "speaker": "agent",
+      "text": "Since I can't verify your info right now,"
+    },
+    {
+      "timestamp": "2026-02-23T15:08:59.580785",
+      "speaker": "patient",
+      "text": "That's okay. Should I call back later, or would you prefer to contact me once the system is ready?"
+    },
+    {
+      "timestamp": "2026-02-23T15:09:03.951115",
+      "speaker": "agent",
+      "text": "our clinic support team will need to help you finish scheduling."
+    },
+    {
+      "timestamp": "2026-02-23T15:09:04.783847",
+      "speaker": "patient",
+      "text": "Alright, I understand. I'll wait to hear from the clinic support team then. Thank you for your help! Goodbye."
+    }
+  ]
+}

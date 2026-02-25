@@ -1,0 +1,108 @@
+{
+  "scenario_id": 2,
+  "scenario_name": "rescheduling",
+  "call_sid": "unknown",
+  "started_at": "2026-02-23T15:14:05.226819",
+  "ended_at": "2026-02-23T15:16:31.447783",
+  "metadata": {
+    "stream_sid": "MZd83984aa8c1e16911d81967c1fdcf6e2",
+    "call_sid": "CAc2cd0edba655928e363555794bed4d19"
+  },
+  "transcript": [
+    {
+      "timestamp": "2026-02-23T15:14:06.724077",
+      "speaker": "patient",
+      "text": "Hi, I need to reschedule an appointment I have coming up."
+    },
+    {
+      "timestamp": "2026-02-23T15:14:18.022341",
+      "speaker": "agent",
+      "text": "Thanks for calling PivotPoint Orthopedics. Part of Pretty Good AI. Am I speaking with Alex?"
+    },
+    {
+      "timestamp": "2026-02-23T15:14:18.843807",
+      "speaker": "patient",
+      "text": "No, this is Maria Santos. I'm calling to reschedule my appointment."
+    },
+    {
+      "timestamp": "2026-02-23T15:14:34.919909",
+      "speaker": "agent",
+      "text": "Got it, Maria. Can you please provide your date of birth?"
+    },
+    {
+      "timestamp": "2026-02-23T15:14:35.533056",
+      "speaker": "patient",
+      "text": "Sure, it's July 22, 1979."
+    },
+    {
+      "timestamp": "2026-02-23T15:14:48.434708",
+      "speaker": "agent",
+      "text": "Just to confirm, can you please spell your first and last name for me?"
+    },
+    {
+      "timestamp": "2026-02-23T15:14:49.154512",
+      "speaker": "patient",
+      "text": "Of course, it's Maria Santos. M-A-R-I-A S-A-N-T-O-S."
+    },
+    {
+      "timestamp": "2026-02-23T15:15:09.633151",
+      "speaker": "agent",
+      "text": "Would you like me to look up your record using a phone number you have on file with us? If so, please provide that number. If you're not sure, let me know, and we can confirm your name and date of birth again."
+    },
+    {
+      "timestamp": "2026-02-23T15:15:10.351956",
+      "speaker": "patient",
+      "text": "Yes, my phone number is 555-876-4321."
+    },
+    {
+      "timestamp": "2026-02-23T15:15:32.930672",
+      "speaker": "agent",
+      "text": "Let me confirm. Your phone number is five five five eight seven six four three two one and your date of birth is July twenty second nineteen seventy nine. Is that correct?"
+    },
+    {
+      "timestamp": "2026-02-23T15:15:33.912193",
+      "speaker": "patient",
+      "text": "Yes, that's correct."
+    },
+    {
+      "timestamp": "2026-02-23T15:15:49.668697",
+      "speaker": "agent",
+      "text": "I can't pull up your record right now, so I'll connect you to our patient's support team for help with rescheduling. Please stay on the line."
+    },
+    {
+      "timestamp": "2026-02-23T15:15:50.389214",
+      "speaker": "patient",
+      "text": "Sure, thank you."
+    },
+    {
+      "timestamp": "2026-02-23T15:15:57.758206",
+      "speaker": "agent",
+      "text": "Live transfer isn't available right now since this is a demo."
+    },
+    {
+      "timestamp": "2026-02-23T15:15:59.706714",
+      "speaker": "patient",
+      "text": "I understand. Could you help me reschedule my appointment for next week instead? I'm available Monday, Tuesday, or Friday, any time."
+    },
+    {
+      "timestamp": "2026-02-23T15:16:05.518947",
+      "speaker": "agent",
+      "text": "I'll make sure our clinic support team follows up with you as soon as possible about rescheduling your appointment. Is there anything else I can help you with today?"
+    },
+    {
+      "timestamp": "2026-02-23T15:16:05.956379",
+      "speaker": "patient",
+      "text": "No, that's all for now. Thank you for your help!"
+    },
+    {
+      "timestamp": "2026-02-23T15:16:29.972047",
+      "speaker": "agent",
+      "text": "I'll document your request and let our clinic support team know you want to reschedule for next week with availability on Monday, Tuesday, or Friday. They'll get back to you as soon as they can. Have a great day."
+    },
+    {
+      "timestamp": "2026-02-23T15:16:30.936398",
+      "speaker": "patient",
+      "text": "Thank you so much. Have a great day! Goodbye!"
+    }
+  ]
+}
